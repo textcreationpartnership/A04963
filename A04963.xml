@@ -1,0 +1,1690 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gratiæ ludentes Iests, from the vniuersitie. By H.L. Oxon.</title>
+            <author>H. L., Oxon.</author>
+         </titleStmt>
+         <extent>Approx. 86KB of XML-encoded text transcribed from 118 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A04963</idno><idno type="EEBO-CITATION">99855050</idno>
+  <idno type="VID">20520</idno>
+  <idno type="EEBO-PROQUEST">2240874114</idno>
+  <idno type="STC">STC 15105</idno>
+  <idno type="STC">ESTC S119844</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99855050e"/>
+            <note>(EEBO-TCP ; phase 2, no. A04963)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 20520)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 766:06)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Gratiæ ludentes Iests, from the vniuersitie. By H.L. Oxon.</title>
+                  <author>H. L., Oxon.</author>
+               </titleStmt>
+               <extent>[20], 214 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Tho. Cotes, for Humphrey Mosley,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1628 [i.e. 1638]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The Bodleian Library copy is correctly dated; the British Library copy and the Rosenbach Foundation copy are misdated "1628" and corrected in ink to "1638"--Cf. STC.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">English wit and humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:20520:1"/>
+            <pb facs="tcp:20520:1"/>
+            <p>
+               <hi>Grattae Ludentes.</hi> IESTS, FROM THE VNIVERSITIE.</p>
+            <p>By <hi>H. L. Oxen.</hi>
+            </p>
+            <q>
+               <bibl>Mart.</bibl>
+               <hi>Dic mihi quid melius de sidiosus Agas.</hi>
+            </q>
+            <p>Printed at London by <hi>Tho. Cotes,</hi> for <hi>Humphrey Mosley.</hi> 1638.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:20520:2"/>
+            <pb facs="tcp:20520:2"/>
+            <head>To the Reader.</head>
+            <p>
+               <seg rend="decorInit">C</seg>Ourteous Reader, J have after so many pamphlets in this kinde adventured this also into your hands; hoping that it will finde as courteous acceptance from you as the rest. Jf J love not my young Ape too well, J thinke the value of it as great as any of the same species that went be<g ref="char:EOLhyphen"/>fore
+<pb facs="tcp:20520:3"/>it: which if you like as J doe, embrace it. If not laugh at it, and so too I shall not misse my end I have restrained my selfe from all Iests in ear<g ref="char:EOLhyphen"/>nest on any mans person which if any (unwitting to me) shall apply to him selfe, let him conceale him<g ref="char:EOLhyphen"/>selfe as I doe, and he shal be the lesse laught at. A also from all scurrilous and obscene Jests which would oppose good man<g ref="char:EOLunhyphen"/>ners or civill urbanity
+<pb facs="tcp:20520:3"/>Which if any expect let him desist from reading this, where J hope is no<g ref="char:EOLhyphen"/>thing without the bounds of lawfull mirth. Reade on, judge, and say you the rest.</p>
+            <closer>
+               <salute>Farewell.</salute>
+            </closer>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:20520:4"/>
+            <pb facs="tcp:20520:4"/>
+            <head>The Table.</head>
+            <list>
+               <item>
+                  <hi>ON a Scholler.</hi> Page. 1</item>
+               <item>
+                  <hi>Of some that went to steale Conies.</hi> 2</item>
+               <item>
+                  <hi>Of Scotus.</hi> 4</item>
+               <item>
+                  <hi>On a Curate,</hi> 5</item>
+               <item>
+                  <hi>On a Bishop bearing Armes.</hi> 6</item>
+               <item>
+                  <hi>Of an Heretique.</hi> 8</item>
+               <item>
+                  <hi>Of an Alderman.</hi> 9</item>
+               <item>
+                  <hi>On unlacing a Rabbet.</hi> 10</item>
+               <item>
+                  <hi>On an Oxford Townesman.</hi> 12</item>
+               <item>
+                  <hi>Of a Country Curate.</hi> 14</item>
+               <pb facs="tcp:20520:5"/>
+               <item>
+                  <hi>On a Welchman in Oxford.</hi> 15</item>
+               <item>
+                  <hi>Of a Scholler being troubled with a tyred horse.</hi> 16</item>
+               <item>
+                  <hi>Of an old Henne.</hi> 17</item>
+               <item>
+                  <hi>Of a Scholler and a Townes<g ref="char:EOLhyphen"/>mans wife.</hi> 18</item>
+               <item>
+                  <hi>On the falling of a Meteor.</hi> 20</item>
+               <item>
+                  <hi>Of a Blinde man.</hi> ibid.</item>
+               <item>
+                  <hi>Of a Boy like</hi> Augustus. 21</item>
+               <item>
+                  <hi>On a Player coughing.</hi> 22</item>
+               <item>
+                  <hi>Of a Welch Minister.</hi> 23</item>
+               <item>
+                  <hi>On a great messe of Broth.</hi> 25</item>
+               <item>
+                  <hi>Of a great Eater.</hi> 26</item>
+               <item>
+                  <hi>Of a Cavilleire.</hi> 27</item>
+               <item>
+                  <hi>One being to take a journey.</hi> ibid.</item>
+               <item>
+                  <hi>Of one that married a croo<g ref="char:EOLhyphen"/>ked
+<pb facs="tcp:20520:5"/>woman.</hi> 28</item>
+               <item>
+                  <hi>A Cuckold.</hi> 29</item>
+               <item>
+                  <hi>A division of a Text.</hi> 30</item>
+               <item>
+                  <hi>Of a Mayor.</hi> 31</item>
+               <item>
+                  <hi>Of one who had long haire.</hi> 33</item>
+               <item>
+                  <hi>Of</hi> Diogenes. 34</item>
+               <item>
+                  <hi>Mistakes in reading.</hi> 35</item>
+               <item>
+                  <hi>Another.</hi> 36</item>
+               <item>
+                  <hi>Another.</hi> 37</item>
+               <item>
+                  <hi>Another.</hi> ibid</item>
+               <item>
+                  <hi>Another.</hi> 39</item>
+               <item>
+                  <hi>The division of a Text.</hi> ib.</item>
+               <item>
+                  <hi>Another.</hi> 40</item>
+               <item>
+                  <hi>Another.</hi> 41</item>
+               <item>
+                  <hi>Of unequall legges.</hi> 43</item>
+               <item>
+                  <hi>Of a Scholler.</hi> ibid</item>
+               <item>
+                  <hi>Of two being at bowles.</hi> 45</item>
+               <item>
+                  <hi>Of the death of</hi> Iulius Cae<g ref="char:EOLhyphen"/>sar. 46</item>
+               <pb facs="tcp:20520:6"/>
+               <item>
+                  <hi>A translation of a Disticke.</hi> 47</item>
+               <item>
+                  <hi>A Construction.</hi> 48</item>
+               <item>
+                  <hi>Another.</hi> 49</item>
+               <item>
+                  <hi>Of a piece pawned.</hi> 50</item>
+               <item>
+                  <hi>An ignorant Papist.</hi> 52</item>
+               <item>
+                  <hi>Of a Neates tongue let fall.</hi> 53</item>
+               <item>
+                  <hi>Of a Skull.</hi> 54</item>
+               <item>
+                  <hi>Of a Taylor.</hi> 55</item>
+               <item>
+                  <hi>Of a dry Preacher.</hi> ibid</item>
+               <item>
+                  <hi>Of a Clowne.</hi> 56</item>
+               <item>
+                  <hi>Of a cleare night.</hi> 57</item>
+               <item>
+                  <hi>Of a Scholler.</hi> ibid.</item>
+               <item>
+                  <hi>Of a Welchman.</hi> 58</item>
+               <item>
+                  <hi>Of a Scholler that had soare legges.</hi> 59</item>
+               <item>
+                  <hi>Of a young Scholler.</hi> 60</item>
+               <item>
+                  <hi>Of two Schollers requiting each others kindnesse.</hi> ibi.</item>
+               <pb facs="tcp:20520:6"/>
+               <item>
+                  <hi>Witty answers.</hi> 63</item>
+               <item>
+                  <hi>A witty answer.</hi> 65</item>
+               <item>
+                  <hi>Of</hi> Piscator. 66</item>
+               <item>
+                  <hi>Of one being distressed in his bed.</hi> 67</item>
+               <item>
+                  <hi>Of a foolish wish.</hi> 68</item>
+               <item>
+                  <hi>A foolish Resolve.</hi> 69</item>
+               <item>
+                  <hi>On a Scholler whose cup was overfull</hi> 70</item>
+               <item>
+                  <hi>Of a Scholler to be presented Batchelour.</hi> 71</item>
+               <item>
+                  <hi>Of a Duns made M. of Arts</hi> 72</item>
+               <item>
+                  <hi>On an order in Magdalene Colledge in Oxford.</hi> 73</item>
+               <item>
+                  <hi>Of a young Scholler.</hi> 75</item>
+               <item>
+                  <hi>Of a Minister.</hi> ibid.</item>
+               <item>
+                  <hi>Of one Taxed for false La<g ref="char:EOLhyphen"/>tine.</hi> 76</item>
+               <item>
+                  <hi>Of a yong man and a Doctor</hi> 77</item>
+               <pb facs="tcp:20520:7"/>
+               <item>
+                  <hi>Of a fellow of an house, and an under graduate.</hi> 78</item>
+               <item>
+                  <hi>Of a Curate.</hi> 79</item>
+               <item>
+                  <hi>Of a Cooke.</hi> 80</item>
+               <item>
+                  <hi>Of one at a non plus.</hi> 81</item>
+               <item>
+                  <hi>On a little study.</hi> ibid</item>
+               <item>
+                  <hi>Of a sluggard.</hi> 82</item>
+               <item>
+                  <hi>On a house of office.</hi> 83</item>
+               <item>
+                  <hi>One that were but one Spur.</hi> 84</item>
+               <item>
+                  <hi>On a Bull.</hi> ibid.</item>
+               <item>
+                  <hi>Of a Scholler sleighted.</hi> 87</item>
+               <item>
+                  <hi>Of an ignorant Priest.</hi> 87</item>
+               <item>
+                  <hi>Of a foolish Scholler.</hi> 88</item>
+               <item>
+                  <hi>Of a Scholler.</hi> 90</item>
+               <item>
+                  <hi>On</hi> Platoes <hi>yeare.</hi> 91</item>
+               <item>
+                  <hi>Of a young Scholler.</hi> 93</item>
+               <item>
+                  <hi>Of a Tutor.</hi> 94</item>
+               <item>
+                  <hi>On a Country man.</hi> 95</item>
+               <item>
+                  <hi>On certaine Schollers.</hi> 96</item>
+               <pb facs="tcp:20520:7"/>
+               <item>
+                  <hi>A Disputation.</hi> 97</item>
+               <item>
+                  <hi>On a Grove.</hi> 98</item>
+               <item>
+                  <hi>Of a quarrell betweene two Schollers.</hi> 99</item>
+               <item>
+                  <hi>A relation of Newes.</hi> 100</item>
+               <item>
+                  <hi>A mistake in reading.</hi> 102</item>
+               <item>
+                  <hi>At Woodstocke by Schollers.</hi> ibid.</item>
+               <item>
+                  <hi>On a French Priest.</hi> 104</item>
+               <item>
+                  <hi>On a meere Scholler.</hi> ibid.</item>
+               <item>
+                  <hi>An Epigramme on this say<g ref="char:EOLhyphen"/>ing.</hi> 105</item>
+               <item>
+                  <hi>On a paire of foule bootes.</hi>
+               </item>
+               <item>
+                  <hi>On a Scholler.</hi> ibid.</item>
+               <item>
+                  <hi>On a Country man.</hi> 108</item>
+               <item>
+                  <hi>Of a Gentleman.</hi> 109</item>
+               <item>
+                  <hi>Another of the same.</hi> 110</item>
+               <item>
+                  <hi>Of a Scholler.</hi> 111</item>
+               <item>
+                  <hi>An</hi> Oxford <hi>Townesman.</hi> 112</item>
+               <pb facs="tcp:20520:8"/>
+               <item>
+                  <hi>On one that had lost at cards</hi> 113</item>
+               <item>
+                  <hi>A bitter Ieaster.</hi> 114</item>
+               <item>
+                  <hi>On a Mercer.</hi> 115</item>
+               <item>
+                  <hi>On an Englishman and a Frenchman.</hi> 117</item>
+               <item>
+                  <hi>On a jealous man.</hi> 118</item>
+               <item>
+                  <hi>Of a poore Souldier.</hi> 119</item>
+               <item>
+                  <hi>A silly young Gentlewoman.</hi> 120</item>
+               <item>
+                  <hi>On an old Lady.</hi> 122</item>
+               <item>
+                  <hi>Of a Tyler.</hi> 124</item>
+               <item>
+                  <hi>Another.</hi> 125</item>
+               <item>
+                  <hi>A Country man.</hi> 126</item>
+               <item>
+                  <hi>On a boy serving in a pigges head.</hi> 127</item>
+               <item>
+                  <hi>Of an old man and a Iudge.</hi> 128</item>
+               <item>
+                  <hi>On a Gentlewoman and her Servant.</hi> 130</item>
+               <pb facs="tcp:20520:8"/>
+               <item>
+                  <hi>Of a Gentlewoman betray<g ref="char:EOLhyphen"/>ing her selfe.</hi> 131</item>
+               <item>
+                  <hi>A Gentleman and his Wife.</hi> 132</item>
+               <item>
+                  <hi>Of a Welch Barber.</hi> 133</item>
+               <item>
+                  <hi>Of a young Barber.</hi> 135</item>
+               <item>
+                  <hi>Of two Fryers.</hi> 136</item>
+               <item>
+                  <hi>How many sorts of Cuckolds</hi> 137</item>
+               <item>
+                  <hi>Of a paire of stockes.</hi> 139</item>
+               <item>
+                  <hi>On one that would borrow money.</hi> ibid.</item>
+               <item>
+                  <hi>Of one wanting beere.</hi> 140</item>
+               <item>
+                  <hi>Of a Welchman.</hi> 141</item>
+               <item>
+                  <hi>Of a Lobster being shot.</hi> 142</item>
+               <item>
+                  <hi>A mistake in a mans name.</hi> 144</item>
+               <item>
+                  <hi>Of a strumpet being with childe.</hi> 145</item>
+               <item>
+                  <hi>Of a Souldier whose stones
+<pb facs="tcp:20520:9"/>were cut out.</hi> 146</item>
+               <item>
+                  <hi>Of a Welchman.</hi> ibid</item>
+               <item>
+                  <hi>Of granting suites.</hi> 147</item>
+               <item>
+                  <hi>Of a Welchman being to bee hanged.</hi> 148</item>
+               <item>
+                  <hi>Of a Spanish cheater.</hi> 150</item>
+               <item>
+                  <hi>Of a prisoner.</hi> 151</item>
+               <item>
+                  <hi>Of a name on a cap.</hi> 152</item>
+               <item>
+                  <hi>Of a stinking breath.</hi> 153</item>
+               <item>
+                  <hi>Of a Gentlewomans legges.</hi> 154</item>
+               <item>
+                  <hi>On a dogge.</hi> 155</item>
+               <item>
+                  <hi>Of a Iugge whose hander was broken.</hi> 156</item>
+               <item>
+                  <hi>On a light wench.</hi> 157</item>
+               <item>
+                  <hi>One complaining for want of sleepe.</hi> 158</item>
+               <item>
+                  <hi>Of a Miser gathering wooll.</hi> 159</item>
+               <item>
+                  <hi>On one that was accused for
+<pb facs="tcp:20520:9"/>stealing a Bull.</hi> 160</item>
+               <item>
+                  <hi>On a Welchman.</hi> 161</item>
+               <item>
+                  <hi>Of a theefe.</hi> 162</item>
+               <item>
+                  <hi>On an old woman.</hi> ibid.</item>
+               <item>
+                  <hi>Of the Sea betweene Eng<g ref="char:EOLhyphen"/>land and Holland.</hi> 163</item>
+               <item>
+                  <hi>Of one that spake bigge.</hi> 164</item>
+               <item>
+                  <hi>A womans desire.</hi> 165</item>
+               <item>
+                  <hi>Of a thinne peece of cheese.</hi> ibid.</item>
+               <item>
+                  <hi>On a tatling Wench.</hi> 166</item>
+               <item>
+                  <hi>On a fat man.</hi> 167</item>
+               <item>
+                  <hi>Of a Clowne.</hi> ibid.</item>
+               <item>
+                  <hi>Of one oretaking another on the way.</hi> 168</item>
+               <item>
+                  <hi>On Blacke-berries.</hi> 169</item>
+               <item>
+                  <hi>Of alarge-beard.</hi> 170</item>
+               <item>
+                  <hi>Of long Mustachos.</hi> 171</item>
+               <item>
+                  <hi>A Proverbe.</hi> 172</item>
+               <item>
+                  <hi>Of one that went a Souldier.</hi> 173</item>
+               <pb facs="tcp:20520:10"/>
+               <item>
+                  <hi>Of a foolish Frenchman.</hi> 174</item>
+               <item>
+                  <hi>On a Tertian Ague.</hi> 175</item>
+               <item>
+                  <hi>Of a young Sutor.</hi> 176</item>
+               <item>
+                  <hi>A Wenches honesty.</hi> ibid.</item>
+               <item>
+                  <hi>A sweete tooth.</hi> 177</item>
+               <item>
+                  <hi>Two Scolds.</hi> 178</item>
+               <item>
+                  <hi>Ona Miller.</hi> 179</item>
+               <item>
+                  <hi>Of a Player.</hi> 180</item>
+               <item>
+                  <hi>Of one being in a tempest.</hi> 181</item>
+               <item>
+                  <hi>On a red head.</hi> 182</item>
+               <item>
+                  <hi>Of a Bavarian.</hi> 183</item>
+               <item>
+                  <hi>Of a Traveller.</hi> 184</item>
+               <item>
+                  <hi>On a Wilde-ducke.</hi> 185</item>
+               <item>
+                  <hi>On a private marriage.</hi> 186</item>
+               <item>
+                  <hi>On the Romane Iulia.</hi> 187</item>
+               <item>
+                  <hi>On Populia.</hi> 188</item>
+               <item>
+                  <hi>Two travailing.</hi> 189</item>
+               <pb facs="tcp:20520:10"/>
+               <item>
+                  <hi>A ridiculous speech.</hi> 190</item>
+               <item>
+                  <hi>On a tyred horse.</hi> 191</item>
+               <item>
+                  <hi>On a Phoenix.</hi> ibid.</item>
+               <item>
+                  <hi>On one in the stocks.</hi> 192</item>
+               <item>
+                  <hi>An Epigramme on a drun<g ref="char:EOLhyphen"/>ken Smith.</hi> 193</item>
+               <item>
+                  <hi>On a close stoole.</hi> 194</item>
+               <item>
+                  <hi>On foule table-clothes.</hi> ibid.</item>
+               <item>
+                  <hi>An Epitaph on a Cobler.</hi> 195</item>
+               <item>
+                  <hi>Ambiguous speeches.</hi> 196</item>
+               <item>
+                  <hi>On a jealous man.</hi> 197</item>
+               <item>
+                  <hi>On a Cuckold.</hi> 198</item>
+               <item>
+                  <hi>On a stout fellow.</hi> 199</item>
+               <item>
+                  <hi>Of a Gentleman.</hi> 200</item>
+               <item>
+                  <hi>Of a Taylor.</hi> 201</item>
+               <item>
+                  <hi>Of a Glutton.</hi> 202</item>
+               <item>
+                  <hi>Another.</hi> 203</item>
+               <item>
+                  <hi>Another.</hi> 204</item>
+               <item>
+                  <hi>A Witty inscription.</hi> ibid.</item>
+               <pb facs="tcp:20520:11"/>
+               <item>
+                  <hi>Of a Red nose.</hi> 205</item>
+               <item>
+                  <hi>Another</hi> 206</item>
+               <item>
+                  <hi>Another.</hi> ibid.</item>
+               <item>
+                  <hi>On a Tinker.</hi> 207</item>
+               <item>
+                  <hi>On a Begger.</hi> 208</item>
+               <item>
+                  <hi>On a Baker.</hi> 210</item>
+               <item>
+                  <hi>Of an old man marrying a young woman.</hi> 213</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:20520:11"/>
+            <head>
+               <hi>Gratiae Ludentes.</hi> OR, Iestes from the Vniversity.</head>
+            <div type="part">
+               <head>On a Scholler.</head>
+               <p>
+                  <seg rend="decorInit">A</seg> Scholler that chanc'd in the night time to bee lockt out of their Colledge gates, wher<g ref="char:EOLhyphen"/>fore hee knockt and a
+<pb n="2" facs="tcp:20520:12"/>friend of his that heard it, came to the gates, of whom hee desired that hee would goe to the head of the house to get the keyes he being within side answered him that he were best to goe him<g ref="char:EOLhyphen"/>selfe for hee feared hee should nor prevaile.</p>
+            </div>
+            <div type="part">
+               <head>Of some that went to steal Conies.</head>
+               <p>A Company of wilde Schollers
+<pb n="3" facs="tcp:20520:12"/>in the Vniversity, went forth on a time to steale conies, and war<g ref="char:EOLhyphen"/>ned a novice or fresh<g ref="char:EOLhyphen"/>man that was among them, that hee should make no noise for feare of scaring them away, so having sepa<g ref="char:EOLhyphen"/>rated themselves, at last it was his fortune to espy a stocks, wher<g ref="char:EOLhyphen"/>fore he cryed aloud to his companions, <hi>Ecce cuniculi multi,</hi> (in Eng<g ref="char:EOLhyphen"/>lish, loe where are ma<g ref="char:EOLhyphen"/>ny
+<pb n="4" facs="tcp:20520:13"/>conies) &amp; straight<g ref="char:EOLhyphen"/>way the conies all ran to their berries, for which his fellowes chiding him, hee saide why, who (a devill) would have thought that conies could un<g ref="char:EOLhyphen"/>derstand Latine.</p>
+            </div>
+            <div type="part">
+               <head>Of Scotus.</head>
+               <p>A Certaine Noble man sitting at ta<g ref="char:EOLhyphen"/>ble, opposite to <hi>Scotus,</hi> amongst other dis<g ref="char:EOLhyphen"/>course
+<pb n="5" facs="tcp:20520:13"/>merrily asked him, what was the dif<g ref="char:EOLhyphen"/>ference betweene Sot and Scot, he answered him, nothing but the table Sir.</p>
+            </div>
+            <div type="part">
+               <head>On a Curate.</head>
+               <p>A Country Curate comming to <hi>Ox<g ref="char:EOLhyphen"/>ford</hi> to take his degree of M<seg rend="sup">r</seg>. of Arts, was askt by the head of the house whereof he was a small member, how
+<pb n="6" facs="tcp:20520:14"/>hee durst being so greene, to enter him<g ref="char:EOLhyphen"/>self into the Ministry? the Curate answered him; because the Lord hath neede of me, the other replyed, I never heard the Lord had need of any thing but an Asse.</p>
+            </div>
+            <div type="part">
+               <head>On a Bishop bearing Armes.</head>
+               <p>A Bishop that had borne Armes a<g ref="char:EOLhyphen"/>gainst a King, was by
+<pb facs="tcp:20520:14"/>him taken and kept prisoner: whereupon the Pope writ to the King, that hee had much violated the priviledge of the ho<g ref="char:EOLhyphen"/>ly Church, in taking one of his sonnes cap<g ref="char:EOLhyphen"/>tive, and keeping him as a prisoner. The King having received his letters, sent backe to him the armour wherein the Bishoppe was taken, with these words; <hi>Vide num haec
+<pb n="8" facs="tcp:20520:15"/>sit vestis filii tui:</hi> see (I pray) if this be the ha<g ref="char:EOLhyphen"/>bit of one of your sonnes?</p>
+            </div>
+            <div type="part">
+               <head>Of an Heretique.</head>
+               <p>A Certaine Heretick whose Bookes were (for the wrong tenents in them) con<g ref="char:EOLhyphen"/>demned to the fire, he himselfe being at the pile, a spectator made use of that verse of <hi>Ovid,</hi>
+               </p>
+               <pb n="9" facs="tcp:20520:15"/>
+               <p>
+                  <hi>Parve, nec invideo, sine me liber ibis in ignem.</hi>
+               </p>
+               <p>One who was stan<g ref="char:EOLhyphen"/>ding by and heard him, made reply with the next verse,
+<q>Hei mihi quod Domino, non licet ire tuo.</q>
+               </p>
+            </div>
+            <div type="part">
+               <head>Of an Alderman.</head>
+               <p>A Discreet Alder<g ref="char:EOLhyphen"/>man of <hi>Oxford,</hi> told some of his bre<g ref="char:EOLhyphen"/>thren that they should overthrow the Vni<g ref="char:EOLhyphen"/>versity
+<pb n="10" facs="tcp:20520:16"/>in a law case (which was then in agitation) if by sear<g ref="char:EOLhyphen"/>ching the ancient re<g ref="char:EOLhyphen"/>cords they could prove <hi>Henry</hi> the se<g ref="char:EOLhyphen"/>cond to have beene before <hi>Henry</hi> the first.</p>
+            </div>
+            <div type="part">
+               <head>On unlacing a Rabbet.</head>
+               <p>A Plaine, but an un<g ref="char:EOLhyphen"/>derstanding schol<g ref="char:EOLhyphen"/>ler, being at table with certaine Ladies, they conculded pri<g ref="char:EOLhyphen"/>vately
+<pb n="11" facs="tcp:20520:16"/>to make some sport with him, wherefore one of them sent him a Rab<g ref="char:EOLhyphen"/>bet, desiring him to unlace it, hee scarce knowing the terme, lesse how to performe her desire, tooke out of the Rabbet the kidneies, and putting them on a trencher sent them to her, desi<g ref="char:EOLhyphen"/>ring her to pardon him, for though hee had not unlac't it, yet
+<pb n="12" facs="tcp:20520:17"/>he had unbutton'd it for her Ladiship.</p>
+            </div>
+            <div type="part">
+               <head>On an Oxford Townesman.</head>
+               <p>A Townesman of <hi>Oxford</hi> being in company with Schol<g ref="char:EOLhyphen"/>lers, and hearing them discourse, wold needs intermingle with them, and told them that though they were Schollers, yet could he tell as well as any of them, what was La<g ref="char:EOLhyphen"/>tine
+<pb n="13" facs="tcp:20520:17"/>for any part in a mans body, yea, saies one of them, prethee what is Latine for a Townesmans head? a head, saith hee, and withall producing his Almanacke, lookt on the Anatomy and an<g ref="char:EOLhyphen"/>swered, why, <hi>Aries</hi> head and face, at which the company laugh<g ref="char:EOLhyphen"/>ing, he swore that if it were not <hi>Aries</hi> it was <hi>Taurus.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="14" facs="tcp:20520:18"/>
+               <head>Of a Country Curate.</head>
+               <p>A Silly Country Cu<g ref="char:EOLhyphen"/>rate came to <hi>Lon<g ref="char:EOLhyphen"/>don</hi> in the time of the sicknesse, and seeing <hi>Lord have mercy upon us,</hi> written on the doore of an infected house, Marry quoth he, it is a very goodly sentence, and great pit<g ref="char:EOLhyphen"/>ty it is, but it should bee written on every house in <hi>London.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="15" facs="tcp:20520:18"/>
+               <head>On a Welchman in Oxford.</head>
+               <p>AT a stage play in <hi>Oxford,</hi> a Cornish man was brought forth to wrestle with foure Welchmen, one after the other, and when he had put them all to the worst, hee called out a loud have you any more Welch<g ref="char:EOLhyphen"/>men? which words a scholler of Iesus Col<g ref="char:EOLhyphen"/>ledge, being himselfe of the Brittish Nation
+<pb n="16" facs="tcp:20520:19"/>tooke in great enda<g ref="char:EOLhyphen"/>gine, insomuch that he leapt upon the stage and threw the Player in earnest, and saide have you any more, &amp;c.</p>
+            </div>
+            <div type="part">
+               <head>Of a Scholler being troubled with a tyred horse.</head>
+               <p>A Scholler upon the way was tormem<g ref="char:EOLhyphen"/>ted with a tired horse, and not knowing o<g ref="char:EOLhyphen"/>therwise how to make him goe, held out on
+<pb n="17" facs="tcp:20520:19"/>a sticke a bottle of hay before his head, which the horse being gree<g ref="char:EOLhyphen"/>dy to overtake, put forward and so per<g ref="char:EOLhyphen"/>formed the journey.</p>
+            </div>
+            <div type="part">
+               <head>Of an old Henne.</head>
+               <p>A Certaine Alder<g ref="char:EOLhyphen"/>man had heard a scholler at table say of an old goose, (as once <hi>Erasmus</hi>) that it was one of those that sa<g ref="char:EOLhyphen"/>ved the <hi>Roman</hi> Capi<g ref="char:EOLhyphen"/>toll,
+<pb n="18" facs="tcp:20520:20"/>the jest being by the company applau<g ref="char:EOLhyphen"/>ded, the Alderman himselfe said it after<g ref="char:EOLhyphen"/>ward of an old henne, that it was one that saved the Capitoll.</p>
+            </div>
+            <div type="part">
+               <head>Of a Scholler and a Townes<g ref="char:EOLhyphen"/>mans wife.</head>
+               <p>A Scholer comming to a Townesmans wife, enquiring of her very earnestly for her husband, telling her withall that hee was
+<pb n="19" facs="tcp:20520:20"/>surely falne into the fire, she presently loo<g ref="char:EOLhyphen"/>king, and finding no such matter, deman<g ref="char:EOLhyphen"/>ded what shold make him thinke so? why (quoth hee) there is such a stink of hornes before the doore, that I would have sworne your husband had burnt bis head.</p>
+            </div>
+            <div type="part">
+               <pb n="20" facs="tcp:20520:21"/>
+               <head>On the falling of a Meteor.</head>
+               <p>ONe seeing a Mete<g ref="char:EOLhyphen"/>or fal down when an Astronomer was taking the height of a Starre with his <hi>Jacobs</hi> staffe, cryed out unto him, O well shot i<g ref="char:EOLhyphen"/>faith!</p>
+            </div>
+            <div type="part">
+               <head>Of a Blinde man.</head>
+               <p>VVHen <hi>Iulian</hi> the Apostate in a mocke demanded of
+<pb n="21" facs="tcp:20520:21"/>blinde <hi>Ignatius,</hi> why he went not to <hi>Galilee</hi> to recover his eye-sight, hee made him this answer, no, I am contented with my blindenesse, because I may not see such a ty<g ref="char:EOLhyphen"/>rant as thou art.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Of a Boy like</hi> Augustus.</head>
+               <p>
+                  <hi>AƲgustus Caesar,</hi> an Emperor of <hi>Rome,</hi> travelling through one of the Provinces;
+<pb n="22" facs="tcp:20520:22"/>saw a boy very like to himselfe, wherefore in a scoffe hee askt him if his mother was never at <hi>Rome,</hi> the boy an<g ref="char:EOLhyphen"/>swered no, but my Father was.</p>
+            </div>
+            <div type="part">
+               <head>On a Player coughing.</head>
+               <p>A Player being slain upon the stage, was troubled with a suddain cough, which hee endeavouring to suppresse was mani<g ref="char:EOLhyphen"/>festly
+<pb n="23" facs="tcp:20520:22"/>seene to shake and move, and at last did cough indeed. At which the Spectators laughing, one of his owne Company stan<g ref="char:EOLhyphen"/>ding by, said that hee was wont to drinke in his pottage.</p>
+            </div>
+            <div type="part">
+               <head>Of a Welch Minister.</head>
+               <p>A Welch Minister being to Preach on a Sunday, certaine merry companions
+<pb n="24" facs="tcp:20520:23"/>had got him into a celler, to drinke his mornings draught, and in the meane while stole his Notes out of his pocket. Hee nothing doubting went to the Church, into the pulpit, where having ended his prayer, he mist at last his Notes, wherefore hee saide: My good neighbors I have lost my Sermon, but I will reade you a Chapter
+<pb n="25" facs="tcp:20520:23"/>in <hi>Job</hi> shall be worth two of it.</p>
+            </div>
+            <div type="part">
+               <head>On a great messe of Broth.</head>
+               <p>A Certaine merry Gentleman seeing a great messe of broth set on the Table with a little chop of Mut<g ref="char:EOLhyphen"/>ton in the middest of it, hastily unbuttoned his doublet, and be<g ref="char:EOLhyphen"/>ing asked by the rest what was his mea<g ref="char:EOLhyphen"/>ning, why, quoth hee,
+<pb n="26" facs="tcp:20520:24"/>I meane to swimme through this Sea of pottage, unto the Isle of Mutton.</p>
+            </div>
+            <div type="part">
+               <head>Of a great Eater.</head>
+               <p>A Gormandizer be<g ref="char:EOLhyphen"/>ing about to sit downe at table, com<g ref="char:EOLhyphen"/>plained that hee had lost his stomack. Well (quoth one that stood by) if a poore man hath found it, he is di<g ref="char:EOLhyphen"/>rectly undone.</p>
+            </div>
+            <div type="part">
+               <pb n="27" facs="tcp:20520:24"/>
+               <head>Of a Cavilleire.</head>
+               <p>A Certaine Caval<g ref="char:EOLhyphen"/>leire slighted a man in his company as being a Scholler. Well Sir (answered he) God might have made you a Scholler too if had pleased him.</p>
+            </div>
+            <div type="part">
+               <head>One being to take a journey.</head>
+               <p>ONe being taking a journey into the
+<pb n="28" facs="tcp:20520:25"/>Country was advised by a friend of his not to go that day for cer<g ref="char:EOLhyphen"/>tainely (quoth hee) it will raine, puh (re<g ref="char:EOLhyphen"/>plies the other) it is no matter for raine, so it hold up underfoot.</p>
+            </div>
+            <div type="part">
+               <head>Of one that married a croo<g ref="char:EOLhyphen"/>ked woman.</head>
+               <p>A Gentleman had taken to wife a woman of good con<g ref="char:EOLhyphen"/>ditions, but crooked
+<pb n="29" facs="tcp:20520:25"/>of body, which being by some objected un<g ref="char:EOLhyphen"/>to him, hee said that God had bowed her and sent her to him for a token.</p>
+            </div>
+            <div type="part">
+               <head>A Cuckold.</head>
+               <p>AN <hi>Oxford</hi> Towns<g ref="char:EOLhyphen"/>man speaking of his former wife, said thus? If a man first marry a whore and after her death an ho<g ref="char:EOLhyphen"/>nest woman, am I a
+<pb n="30" facs="tcp:20520:26"/>Cuckold then?</p>
+            </div>
+            <div type="part">
+               <head>A division of a Text.</head>
+               <p>A Scholler of the Vniversity of <hi>Ox<g ref="char:EOLhyphen"/>ford,</hi> being to Preach there in one of the Parish Churches, and owing much money unto men of the same Parish, chose this Text out of the Gospell. Have patience, and I will pay you all.</p>
+               <p>Which he divided in<g ref="char:EOLhyphen"/>to
+<pb n="31" facs="tcp:20520:26"/>these parts.</p>
+               <p n="1">1. An Exhortation, have patience with me.</p>
+               <p n="2">2. A Promise, and I will pay you all.</p>
+               <p>At this time of my Exhortation, And of the Promise, when God shall enable mee.</p>
+            </div>
+            <div type="part">
+               <head>Of a Mayor.</head>
+               <p>A Major of a Towne wherein were ma<g ref="char:EOLhyphen"/>ny Tanners, had cau<g ref="char:EOLhyphen"/>sed
+<pb n="32" facs="tcp:20520:27"/>the wayes to be re<g ref="char:EOLhyphen"/>paired against the Kings comming thi<g ref="char:EOLhyphen"/>ther, by casting good store of hornes into the deepe places a<g ref="char:EOLhyphen"/>mongst the stones. The King at his com<g ref="char:EOLhyphen"/>ming commended his care. Nay (an't please your Majesty) quoth he, my brethren and I did lay our heads to<g ref="char:EOLhyphen"/>gether that wee might make good way for your Majesty, at which
+<pb n="33" facs="tcp:20520:27"/>the King heartily laughed.</p>
+            </div>
+            <div type="part">
+               <head>Of one who had long haire.</head>
+               <p>A Scholler calling after one that had long haire; hee not hearing him at the first or second call, askt him whether his eares were lockt.</p>
+            </div>
+            <div type="part">
+               <pb n="34" facs="tcp:20520:28"/>
+               <head>
+                  <hi>Of</hi> Diogenes.</head>
+               <p>ONe as king <hi>Dioge<g ref="char:EOLhyphen"/>nes</hi> the Cynicke what hee would have to take a cuffe on the eare, he answered him a helmet. The same man walking in the fields, and seeing a young man shooting very unskilfully, went and sate downe very neere the marke, some asking him why hee did so, hee answered
+<pb n="35" facs="tcp:20520:28"/>least peradventure hee should hit mee that shootes.</p>
+            </div>
+            <div type="part">
+               <head>Mistakes in reading.</head>
+               <p>ONe reading the history of <hi>Elisha,</hi> in the old Testament, and how the children mocked him, read, and there came three shee Boares out of the forrest and devoured them.</p>
+            </div>
+            <div type="part">
+               <pb n="36" facs="tcp:20520:29"/>
+               <head>Another.</head>
+               <p>ANother reading part of an Epistle in the new Testament, read, for salute <hi>Epa<g ref="char:EOLhyphen"/>phras</hi> the chosen of the Lord, salute <hi>Epaphras</hi> the cozen of the Lord. The same man rea<g ref="char:EOLhyphen"/>ding of the uncove<g ref="char:EOLhyphen"/>ring the house in the Gospell, to let downe the diseased, read, and they let them downe in Coaches, for Cou<g ref="char:EOLhyphen"/>ches.</p>
+            </div>
+            <div type="part">
+               <pb n="37" facs="tcp:20520:29"/>
+               <head>Another.</head>
+               <p>ANother reading in the Psalmes, hee shall flourish like a greene bay (tree fol<g ref="char:EOLhyphen"/>lowing) turned over two leaves, and read on, horse and mule, in which is no under<g ref="char:EOLhyphen"/>standing.</p>
+            </div>
+            <div type="part">
+               <head>Another.</head>
+               <p>ANother reading the Parable of the
+<pb n="38" facs="tcp:20520:30"/>Sower, having it as he thought by heart, and not much attending the booke, but did halfe read it thus, and some seed fel amongst stones, and the stones grew up and choaked it. The same at ano<g ref="char:EOLhyphen"/>ther time read, and the Sheepe eate up one of the mountaines, for, the Sheepe eate upon the mountaines.</p>
+            </div>
+            <div type="part">
+               <pb n="39" facs="tcp:20520:30"/>
+               <head>Another.</head>
+               <p>ANother being to read that of Saint <hi>Paul,</hi> in the Acts, <hi>He<g ref="char:EOLhyphen"/>braei sunt, sum &amp; ego,</hi> read, <hi>ebrei sunt sum &amp; ego,</hi> whereas hee was drunke indeed.</p>
+            </div>
+            <div type="part">
+               <head>The division of a Text.</head>
+               <p>A Certaine Coun<g ref="char:EOLhyphen"/>try Minister divi<g ref="char:EOLhyphen"/>ded his Text after this manner, my Text hath
+<pb n="40" facs="tcp:20520:31"/>two parts, whereof like those two wo<g ref="char:EOLhyphen"/>men grinding at the Mill, the one must bee chosen and the other left. Another thus, my Text like <hi>Iudas</hi> doth burst asunder, and naturally divides it selfe into these two parts.</p>
+            </div>
+            <div type="part">
+               <head>Another.</head>
+               <p>ANother dividing this Text, seeke,
+<pb n="41" facs="tcp:20520:31"/>and you shall finde, and willing to imitate the second division in Logicke distingui<g ref="char:EOLhyphen"/>shed of foure sorts of seekers.</p>
+               <p n="1">1. Some seeke and finde not.</p>
+               <p n="2">2. Others finde and seeke not.</p>
+               <p n="3">3. Some both seeke and finde.</p>
+               <p n="4">4. Others neither seeke nor finde.</p>
+            </div>
+            <div type="part">
+               <pb n="42" facs="tcp:20520:32"/>
+               <head>Another.</head>
+               <p>ANother taking this Text, of the feast in the Gospell, how camest thou hi<g ref="char:EOLhyphen"/>ther without thy wed<g ref="char:EOLhyphen"/>ding garment? and the man was speech<g ref="char:EOLhyphen"/>lesse, divided it thus.</p>
+               <p n="1">1. A question, how camest thou hither without thy wedding garment?</p>
+               <p n="2">2. An answer, and the man was speech<g ref="char:EOLhyphen"/>lesse.</p>
+            </div>
+            <div type="part">
+               <pb n="43" facs="tcp:20520:32"/>
+               <head>Of unequall legges.</head>
+               <p>A Chaplaine in <hi>Ox<g ref="char:EOLhyphen"/>ford,</hi> having one legge bigger then the other, was told by a Scholler that his legges might well bee Chap<g ref="char:EOLhyphen"/>laines too, for they were never like to be fellowes.</p>
+            </div>
+            <div type="part">
+               <head>Of a Scholler.</head>
+               <p>A Scholler had beene walking in the
+<pb n="44" facs="tcp:20520:33"/>fields, and comming home againe said, this winde is the uncon<g ref="char:EOLhyphen"/>stantest thing that is in the earth, I walkt out right halfe a mile even now, and it blew directly in my face; I was no sooner retur<g ref="char:EOLhyphen"/>ned and it blew in my backe. The same man comming into their Colledge Kitchen, chose out of the skil<g ref="char:EOLhyphen"/>let all the swimming egges (which are most
+<pb n="45" facs="tcp:20520:33"/>commonly the worst) for his owne dinner, and being askt why hee did so, because (quoth hee) these should be Duck eggs by their swimming.</p>
+            </div>
+            <div type="part">
+               <head>Of two being at bowles.</head>
+               <p>TWo being toge<g ref="char:EOLhyphen"/>ther at bowels, at last they wrangled with each other, in rec<g ref="char:EOLhyphen"/>koning their games, one of them deepely
+<pb n="46" facs="tcp:20520:34"/>swearing that it was thus, the other said, how horribly dost thou sweare, it is the great mercy of God, that the bowling greene doth not fall about thy eares.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Of the death of</hi> Iulius Caesar.</head>
+               <p>CErtaine Schollers were discoursing of the death of <hi>Julius Caesar,</hi> and all conclu<g ref="char:EOLhyphen"/>ded that he was slaine
+<pb n="47" facs="tcp:20520:34"/>with bodkins, one hearing it, demanded whether that were not <hi>Iulius Caesar,</hi> whose picture stands before the Almancke.</p>
+            </div>
+            <div type="part">
+               <head>A translation of a Disticke.</head>
+               <p>
+                  <hi>PIstor erat quondam, laborando qui fregit collum.</hi>
+               </p>
+               <p>
+                  <hi>Qui fregit collum, col<g ref="char:EOLhyphen"/>lum fregitque suum.</hi>
+               </p>
+               <p>Translated by the Scholler that made
+<pb n="48" facs="tcp:20520:35"/>them, after this man<g ref="char:EOLhyphen"/>ner.</p>
+               <p>There was a Baker heretofore with labor and great paine:</p>
+               <p>Did break his neck, and breake his necke, and breake his necke againe.</p>
+            </div>
+            <div type="part">
+               <head>A Construction.</head>
+               <p>A Schoole Boy be<g ref="char:EOLhyphen"/>ing to construe that in <hi>Terence, ventum erat ad vestae,</hi> rendred
+<pb n="49" facs="tcp:20520:35"/>it in this manner, <hi>ven<g ref="char:EOLhyphen"/>tum</hi> the winde, <hi>erat</hi> was, <hi>vestae</hi> in the West, at which the Schoole-Master laughing said, it was then time to hoyst up sayle, and withall untrust the boy and trimmed his pinnace.</p>
+            </div>
+            <div type="part">
+               <head>Another.</head>
+               <p>A Young Deacon, being to bee made Minister, the Bishop
+<pb n="50" facs="tcp:20520:36"/>in his examination put him to construe that verse of <hi>Seneca</hi> the <hi>Tragaedian; Curae leves lo<g ref="char:EOLhyphen"/>quuntur, ingentes stupent,</hi> Hee did it thus, <hi>Curae leves,</hi> little Curates, <hi>loquuntur,</hi> doe Preach, <hi>Ingentes</hi> great Bishops, <hi>stupent</hi> doe hold their peace.</p>
+            </div>
+            <div type="part">
+               <head>Of a piece pawned.</head>
+               <p>A Scholler having beene in the fields
+<pb n="51" facs="tcp:20520:36"/>a shooting, comming home went into an Alehouse, where wan<g ref="char:EOLhyphen"/>ting money for the present hee left his peece to discharge the shot. The same man comming from Ser<g ref="char:EOLhyphen"/>mon went into a Ta<g ref="char:EOLhyphen"/>verne where having ourdranke his purse hee desired the Vint<g ref="char:EOLhyphen"/>ner to take his word, which because hee re<g ref="char:EOLhyphen"/>fused, hee threw him his Bible, and told him
+<pb n="52" facs="tcp:20520:37"/>if hee would not take his word, hee should take Gods Word for it.</p>
+            </div>
+            <div type="part">
+               <head>Anignorant Papist.</head>
+               <p>A Iesuite admini<g ref="char:EOLhyphen"/>string the Sacra<g ref="char:EOLhyphen"/>ment to a sicke Papist on a Friday, according to the order said, Take eate, this is Christs bo<g ref="char:EOLhyphen"/>dy, the sicke man an<g ref="char:EOLhyphen"/>swered him, that it stood against his con<g ref="char:EOLhyphen"/>science
+<pb n="53" facs="tcp:20520:37"/>to eate flesh on a Fryday, for he ne<g ref="char:EOLhyphen"/>ver used so to doe.</p>
+            </div>
+            <div type="part">
+               <head>Of a Neates tongue let fall.</head>
+               <p>A Servitor in <hi>Oxford,</hi> serving to the Ta<g ref="char:EOLhyphen"/>ble a Neates tongue, let it fall by the way, being chid by his M. for it, he said it was but <hi>Lapsus Linguae.</hi>
+               </p>
+               <p>Another by chance shed a dish of broath on his Masters Table,
+<pb n="54" facs="tcp:20520:38"/>hee reprehending him said, sirra, I could have done so much my selfe, no marvaile Sir (quoth he) now you have seene mee doe it before you.</p>
+            </div>
+            <div type="part">
+               <head>Of a Skull.</head>
+               <p>AN <hi>Oxford</hi> Skull be<g ref="char:EOLhyphen"/>ing asked how he got so much wit, be<g ref="char:EOLhyphen"/>ing but a Skull, hee an<g ref="char:EOLhyphen"/>swered where should the wit bee but in the skull.</p>
+            </div>
+            <div type="part">
+               <pb n="55" facs="tcp:20520:38"/>
+               <head>Of a Taylor.</head>
+               <p>A Taylour of the same Towne ha<g ref="char:EOLhyphen"/>ving his legges well beaten at cudgels, the company laughing at him, hee said, Gentle<g ref="char:EOLhyphen"/>men why laugh yee, they are not my legs I stand upon.</p>
+            </div>
+            <div type="part">
+               <head>Of a dry Preacher.</head>
+               <p>A Gentleman being at Sermon, where
+<pb n="56" facs="tcp:20520:39"/>a dull fellow preacht almost all his Audito<g ref="char:EOLhyphen"/>ry out of the Church, said that he made a ve<g ref="char:EOLhyphen"/>ry mooving Sermon.</p>
+            </div>
+            <div type="part">
+               <head>Of a Clowne.</head>
+               <p>A Country fellow comming into the Schoole of Medicine in <hi>Oxford,</hi> and seeing there the mans skinne tanned, said that the skin wold make good Bucks-leather gloves.</p>
+            </div>
+            <div type="part">
+               <pb n="57" facs="tcp:20520:39"/>
+               <head>Of a cleare night.</head>
+               <p>ONe walking a<g ref="char:EOLhyphen"/>broad in a cleare Mooneshining night, said it was as fine a night as any is in <hi>Eng<g ref="char:EOLhyphen"/>land.</hi> Another swore it was as fine a night as a man shall see in a Sommers day.</p>
+            </div>
+            <div type="part">
+               <head>Of a Scholler.</head>
+               <p>A Scholler as he was blowing the fire
+<pb n="58" facs="tcp:20520:40"/>in a winter night, his bellowes nose fell out, Gentlemen quoth he, it must needs bee cold weather when the bel<g ref="char:EOLhyphen"/>lowes nose doth droppe.</p>
+            </div>
+            <div type="part">
+               <head>Of a Welchman.</head>
+               <p>A Scholler exami<g ref="char:EOLhyphen"/>ning a Welchman who was also a Schol<g ref="char:EOLhyphen"/>ler in the <hi>Meteoro-lo<g ref="char:EOLhyphen"/>gickes,</hi> asked him, <hi>quid est capra saltans?</hi> The
+<pb n="59" facs="tcp:20520:40"/>Welchman answered in English, that it was a capring Goat.</p>
+            </div>
+            <div type="part">
+               <head>Of a Scholler that had soare legges.</head>
+               <p>A Scholler keeping his chamber very closely, by reason of his fore legges, vvas askt by another, hovv hee could keepe in so much, having such running legges.</p>
+            </div>
+            <div type="part">
+               <pb n="60" facs="tcp:20520:41"/>
+               <head>Of a young Scholler.</head>
+               <p>A Young Scholler was very much perplexed, because in all his Dictionary, hee could not finde what was Latine for <hi>Aqua<g ref="char:EOLhyphen"/>vitae.</hi> Another because he could not finde La<g ref="char:EOLhyphen"/>tine for a Noble.</p>
+            </div>
+            <div type="part">
+               <head>Of two Schollers requiting each others kindnesse.</head>
+               <p>A Certaine Seholler had occasion to
+<pb n="61" facs="tcp:20520:41"/>make use of a booke which hee himselfe wanted, wherefore he sent to another to borrow it for a short time, but hee sent him word that hee could not lend his booke out of doores, but that he should come to his chamber and reade while he would. The Scholler being to have private use of it, fur<g ref="char:EOLhyphen"/>nished himselfe ano<g ref="char:EOLhyphen"/>therwhere, and after<g ref="char:EOLhyphen"/>ward
+<pb n="62" facs="tcp:20520:42"/>wayled a requi<g ref="char:EOLhyphen"/>tall, which was thus offered: Two dayes after the other came to him to borrow his bellowes, hee made him answer, indeede I cannot lend my bel<g ref="char:EOLhyphen"/>lowes out of doores, but come to my cham<g ref="char:EOLhyphen"/>ber and blow whiles you will.</p>
+            </div>
+            <div type="part">
+               <pb n="63" facs="tcp:20520:42"/>
+               <head>Witty answers.</head>
+               <p>
+                  <hi>Qu.</hi> VVHy is <hi>Coe<g ref="char:EOLhyphen"/>lum</hi> which is Latine for Heaven, onely of the masculine gender, in the plurall number.</p>
+               <p>
+                  <hi>An</hi> Because that I thinke few women shall come there, or at least such as are sin<g ref="char:EOLhyphen"/>gular.</p>
+               <p>
+                  <hi>Qu.</hi> Why amongst the rest of the planets doth <hi>Venus</hi> cast a sha<g ref="char:EOLhyphen"/>dow?</p>
+               <pb n="64" facs="tcp:20520:43"/>
+               <p>
+                  <hi>An.</hi> Because her deeds doe most wantit.</p>
+               <p>
+                  <hi>Qu.</hi> Why doth the man weare the horns whereas the woman doth make them?</p>
+               <p>
+                  <hi>An</hi> Because the man is the head.</p>
+               <p>
+                  <hi>Qu.</hi> Suppose you and I were in a roome to gether, you being na<g ref="char:EOLhyphen"/>ked, pray which part would you first co<g ref="char:EOLhyphen"/>ver.</p>
+               <p>
+                  <hi>An.</hi> Your eyes Sir. A Question proposed
+<pb n="65" facs="tcp:20520:43"/>to a Gentlewoman, at the play of Questions and Commands.</p>
+               <p>
+                  <hi>Qu.</hi> Of all creatures, which dyeth best like a Swan?</p>
+               <p>
+                  <hi>An.</hi> A theefe, because hee sings before hee dies.</p>
+            </div>
+            <div type="part">
+               <head>A witty answer.</head>
+               <p>A <hi>Glocestershire</hi> man intruded at a <hi>De<g ref="char:EOLhyphen"/>vonshire</hi> feast, in <hi>Ox<g ref="char:EOLhyphen"/>ford</hi> (for once a yeare
+<pb n="66" facs="tcp:20520:44"/>they have a solemne meeting that are of one shire) wherefore he was askt if he were their Countryman or no, he answered, there went but a paire of sheeres betwixt us.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Of</hi> Piscator.</head>
+               <p>A Scholler being to take his degree for Batchelor of Divinity, in disputations sligh<g ref="char:EOLhyphen"/>ted the Authority of
+<pb n="67" facs="tcp:20520:44"/>
+                  <hi>Piscator,</hi> with these words, <hi>Audio Aposto<g ref="char:EOLhyphen"/>lum non piscatorem.</hi> The Moderator answered him, why, <hi>fuit Aposto<g ref="char:EOLhyphen"/>lus Piscator.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Of one being distressed in his bed.</head>
+               <p>A Gentleman being distressed in his naked bed, told his Chamberfellow, that he must needs rise and untrusse a point. Ano<g ref="char:EOLhyphen"/>ther (being a Welch<g ref="char:EOLhyphen"/>man)
+<pb n="68" facs="tcp:20520:45"/>used the same phrase, when hee saw a henne shiting on a Table.</p>
+            </div>
+            <div type="part">
+               <head>Of a foolish wish.</head>
+               <p>A Scholler whose study was adjoy<g ref="char:EOLhyphen"/>ning to an Orchard, &amp; seeing a tree of ve<g ref="char:EOLhyphen"/>ry faire plummes out of his window, wisht himselfe a crow that hee might fly out and fill his pockets, and so
+<pb n="69" facs="tcp:20520:45"/>come backe againe.</p>
+            </div>
+            <div type="part">
+               <head>A foolish Resolve.</head>
+               <p>TWo Schollers ha<g ref="char:EOLhyphen"/>ving beene abroad tipling, &amp;c. about 8. or 9. resolved at last to goe home and study like horses, wherefore they agreed to locke each other into their studies.</p>
+            </div>
+            <div type="part">
+               <pb n="70" facs="tcp:20520:46"/>
+               <head>On a Scholler whose cup was overfull.</head>
+               <p>A Fellow whose cup was overfilled and so delivered unto him did once or twice ve<g ref="char:EOLhyphen"/>ry gingerly sip there of, whereat the com<g ref="char:EOLhyphen"/>pany laughing, he said Gentlemen it was too full before, but now it is very faire, and so hee dranke off all the rest. The same man at another time, swore that hee dranke once
+<pb n="71" facs="tcp:20520:46"/>as good beere as ever he did in his life.</p>
+            </div>
+            <div type="part">
+               <head>Of a Scholler to be presented Batchelour.</head>
+               <p>A Scholler that was to take his degree of Batchelour of Arts, was asked by the Deane that was to present him to the congregation with what conscience hee could sweare him to bee fit for that degree both in learning and
+<pb n="72" facs="tcp:20520:47"/>manners sith hee had spent his time so ill in the Vniversity? The Scholler answered him, hee might well sweare him to bee <hi>fit tam moribus quam do<g ref="char:EOLhyphen"/>ctrina,</hi> for so the oath Deanes are to take doth runne in the La<g ref="char:EOLhyphen"/>tine.</p>
+            </div>
+            <div type="part">
+               <head>Of a Duns made M. of Arts</head>
+               <p>A Duns being crea<g ref="char:EOLhyphen"/>ted M. of Arts, one
+<pb n="73" facs="tcp:20520:47"/>askes how it is possi<g ref="char:EOLunhyphen"/>ble hee should attaine to that degree, being so meane a Scholler, another answered, it mitht well bee, for <hi>Omnis creatio est ex nihi<g ref="char:EOLhyphen"/>lo.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>On an order in Magdalene Colledge in Oxford.</head>
+               <p>IN Magdalene Col<g ref="char:EOLhyphen"/>ledge in <hi>Oxford,</hi> it is an order that every morning one shall go about to every Schol<g ref="char:EOLhyphen"/>lers
+<pb n="74" facs="tcp:20520:48"/>doore that is of the foundatiō, knock<g ref="char:EOLhyphen"/>ing loudly and crying <hi>pars a quinta</hi> (which signifies a quarter af<g ref="char:EOLhyphen"/>ter five of the clocke) and warnes them all to prayers, one hea<g ref="char:EOLhyphen"/>ring this related said, doth hee knocke at e<g ref="char:EOLhyphen"/>very doore, yes saith the other, then replies he, hee had neede rise at three of the clocke to cry <hi>pars a quinta.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="75" facs="tcp:20520:48"/>
+               <head>Of a young Scholler.</head>
+               <p>A Schoole Master asked one of his Schollers in the Win<g ref="char:EOLhyphen"/>ter time, what was La<g ref="char:EOLhyphen"/>tine for cold, O Sir, answered the lad, I have that at my fin<g ref="char:EOLhyphen"/>gers ends.</p>
+            </div>
+            <div type="part">
+               <head>Of a Minister.</head>
+               <p>A Minister whose name was Thorn, having almost tyred
+<pb n="76" facs="tcp:20520:49"/>his Auditory in a Ser<g ref="char:EOLhyphen"/>mon, desired them to have patience, with him but for a while and they should ga<g ref="char:EOLhyphen"/>ther Grapes from, Thorne.</p>
+            </div>
+            <div type="part">
+               <head>Of one Taxed for false La<g ref="char:EOLhyphen"/>tine.</head>
+               <p>A Servitor in <hi>Oxford</hi> being a Scholler, and having freely gi<g ref="char:EOLhyphen"/>ven his Tutor an Epi<g ref="char:EOLhyphen"/>stle for a New yeares
+<pb n="77" facs="tcp:20520:49"/>gift, hee read it and taxed him for false Latine in it. Sir hee re<g ref="char:EOLhyphen"/>blies, I thought that you would not looke a gift horse in the mouth.</p>
+            </div>
+            <div type="part">
+               <head>Of a yong man and a Doctor</head>
+               <p>A Young man be<g ref="char:EOLhyphen"/>ing in a bowling greene where was a grave D<seg rend="sup">r</seg>. at bowles, the D<seg rend="sup">r</seg>. said hee would win the former cast,
+<pb n="78" facs="tcp:20520:50"/>the young man hea<g ref="char:EOLhyphen"/>ring it, said, Ile lay halfe a dozen on it.</p>
+            </div>
+            <div type="part">
+               <head>Of a fellow of an house, and an under graduate.</head>
+               <p>A Fellow of a Col<g ref="char:EOLhyphen"/>ledge was chiding an under graduate, for prating too loud in dinner time, and with<g ref="char:EOLhyphen"/>all told him that <hi>vir sapit qui pauca loquitur,</hi> the other replies yes, <hi>vir loquitur qui pauca sa<g ref="char:EOLhyphen"/>pit.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="79" facs="tcp:20520:50"/>
+               <head>Of a Curate.</head>
+               <p>A Country Curate asking a young Scholler to which V<g ref="char:EOLhyphen"/>niversity hee intended to go, the choller an<g ref="char:EOLhyphen"/>swered him, to <hi>Cam<g ref="char:EOLhyphen"/>bridge.</hi> That is a very unhealthy place said the first, and I thinke if I had lived there till this time, I had beene dead five yeares since. Another told a me<g ref="char:EOLhyphen"/>lancholy man, that if
+<pb n="80" facs="tcp:20520:51"/>he lived long that sad kind of life, he would dye shortly.</p>
+            </div>
+            <div type="part">
+               <head>Of a Cooke.</head>
+               <p>A Cooke of a Col<g ref="char:EOLhyphen"/>ledge on a Winter night being much bu<g ref="char:EOLhyphen"/>sied in dressing sup<g ref="char:EOLhyphen"/>per, and withall halfe tipled, cut up the sheathe of his knife and broyled it for a red hearing.</p>
+            </div>
+            <div type="part">
+               <pb n="81" facs="tcp:20520:51"/>
+               <head>Of one at a non plus.</head>
+               <p>ONE haveing brought himselfe to a non plus, in the telling of a tale, defi<g ref="char:EOLhyphen"/>red another to helpe him out, no quoth he, you are out enough al<g ref="char:EOLhyphen"/>ready.</p>
+            </div>
+            <div type="part">
+               <head>On a little study.</head>
+               <p>A Scholler haveing a very little study, and a company in his
+<pb n="82" facs="tcp:20520:52"/>chamber desiring to see it, hee told them, ifaith Gentlemen if you goe all in, it will not hold you.</p>
+            </div>
+            <div type="part">
+               <head>Of a sluggard.</head>
+               <p>A Fellow that used to lye abed long every morne, once got up about the ri<g ref="char:EOLhyphen"/>sing of the Sunne, wherefore hee told some that the Sunne did rise sooner that
+<pb n="83" facs="tcp:20520:52"/>morning then it had done these five yeares.</p>
+            </div>
+            <div type="part">
+               <head>On a house of office.</head>
+               <p>ONe asking ano<g ref="char:EOLhyphen"/>ther which was the way to the house of office, was bid by him to follow his nose, and hee could not misse the way. The same man com<g ref="char:EOLhyphen"/>ming backe againe, said that hee had—his belly full.</p>
+            </div>
+            <div type="part">
+               <pb n="84" facs="tcp:20520:53"/>
+               <head>One that wore but one Spur.</head>
+               <p>A Scholler beeing jeer'd on the way for wearing but one Spurre, said that if one side of his horse went on, it was not likely that the other would stay behinde.</p>
+            </div>
+            <div type="part">
+               <head>On a Bull.</head>
+               <p>SOme being tal<g ref="char:EOLhyphen"/>king concerning jests, buls, and the like,
+<pb n="85" facs="tcp:20520:53"/>one of them averred that there was as much wit shewed in breaking a good bull, so it were voluntarily done, as in the best jest, which speech ano<g ref="char:EOLhyphen"/>ther confirming, said, that it was harder to speake good non<g ref="char:EOLhyphen"/>sence, than bad good<g ref="char:EOLhyphen"/>sence.</p>
+            </div>
+            <div type="part">
+               <pb n="86" facs="tcp:20520:54"/>
+               <head>Of a Scholler sleighted.</head>
+               <p>A Scholler neglect<g ref="char:EOLhyphen"/>ing or not seeing one of his former fa<g ref="char:EOLhyphen"/>miliar acquaintance, the other tooke it in endugine, and impu<g ref="char:EOLhyphen"/>ting it to his pride, said to those of his company, hee sees me well enough, but hee will not looke on me.</p>
+            </div>
+            <div type="part">
+               <pb n="87" facs="tcp:20520:54"/>
+               <head>Of an ignorant Priest.</head>
+               <p>AN ignorant Priest at the celebration of Masse, saw written in his booke <hi>salta per tria</hi> which signifies <hi>fo<g ref="char:EOLhyphen"/>lia</hi> or <hi>paginas,</hi> in Eng<g ref="char:EOLhyphen"/>lish, turne ore three leaves at once, he leaps downe backward 3. staires from the Altar. The Country people thinking him madde bound him hand and foote, and carryed
+<pb n="88" facs="tcp:20520:55"/>him out of the Church</p>
+            </div>
+            <div type="part">
+               <head>Of a foolish Scholler.</head>
+               <p>IN a certaine mona<g ref="char:EOLunhyphen"/>stery did live studi<g ref="char:EOLhyphen"/>ous youths under the discipline of an Ab<g ref="char:EOLhyphen"/>bot and their severall Tutors, there one be<g ref="char:EOLhyphen"/>ing bid to construe an hymne in which was this word <hi>pedo,</hi> which signifies a sheepe-crooke, the Scholler was thereat puzzeled.
+<pb n="89" facs="tcp:20520:55"/>Wherefore the Abbot bad him looke out that word in the Di<g ref="char:EOLhyphen"/>ctionary, where ha<g ref="char:EOLhyphen"/>ving lookt, hee cryes out <hi>pedo pedis pedere,</hi> which signifies to fart, at which the rest brak forth into a loud laughter. The Abbot being thereat very an<g ref="char:EOLhyphen"/>gry strooke one of them, saying you ras<g ref="char:EOLhyphen"/>cals dee laugh whilest wee are talking of sa<g ref="char:EOLhyphen"/>cred things?</p>
+            </div>
+            <div type="part">
+               <pb n="90" facs="tcp:20520:56"/>
+               <head>Of a Scholler.</head>
+               <p>A Vniersity Schol<g ref="char:EOLunhyphen"/>ler, many times striving to bee graced with the degree of a Batchelour of Arts, could never obtaine it. At last all hope for<g ref="char:EOLhyphen"/>saking him, hee said why there is no neces<g ref="char:EOLhyphen"/>sity I should bee Bat<g ref="char:EOLhyphen"/>chelor, for Christ had twelve Disciples, and yet none of them was a Batchelor.</p>
+            </div>
+            <div type="part">
+               <pb n="91" facs="tcp:20520:56"/>
+               <head>
+                  <hi>On</hi> Platoes <hi>yeare.</hi>
+               </head>
+               <p>TWo young Phy<g ref="char:EOLhyphen"/>losophers went into an Inne to drink, where the hoast was an old man, but very witty and conceited. Where having dispu<g ref="char:EOLhyphen"/>ted most part of the night, concerning the opinions of Philoso<g ref="char:EOLhyphen"/>phers, especially of <hi>Platoes</hi> great yeare, (how after thirty thousand yeares they
+<pb n="92" facs="tcp:20520:57"/>should againe bee en<g ref="char:EOLhyphen"/>tertained in the same Inne,) At last they in<g ref="char:EOLunhyphen"/>treated the old man, that untill that time he would forbeare the reckoning, and when then they came againe they promised to pay him. To which hee answered, In the yeare past beeing 30000. yeares since, I remem<g ref="char:EOLhyphen"/>ber you were here and did not pay your rec<g ref="char:EOLhyphen"/>koning, pay that now,
+<pb n="93" facs="tcp:20520:57"/>and I will trust you for this untill the next yeare.</p>
+            </div>
+            <div type="part">
+               <head>Of a young Scholler.</head>
+               <p>A Company of Schollers were talking of an impu<g ref="char:EOLhyphen"/>dent woman that hit her owne husband in the teeth with his hosnes; a puny a<g ref="char:EOLhyphen"/>mongst them saith, what a foole was hee to let his wife know
+<pb n="94" facs="tcp:20520:58"/>he was a Cuckold.</p>
+            </div>
+            <div type="part">
+               <head>Of a Tutor.</head>
+               <p>A Tutor in the Vni<g ref="char:EOLhyphen"/>versity reprehen<g ref="char:EOLhyphen"/>ding some of his Schollers for too much frequenting the waters, said that hee would have no man venture to goe into the water untill hee could swimme well.</p>
+            </div>
+            <div type="part">
+               <pb n="95" facs="tcp:20520:58"/>
+               <head>On a Country man.</head>
+               <p>A Country fellow went to the Vni<g ref="char:EOLhyphen"/>versity of <hi>Oxford</hi> to see his young Landlord, who was there a stu<g ref="char:EOLhyphen"/>dent. And having found him discour<g ref="char:EOLhyphen"/>sing amongst Schol<g ref="char:EOLhyphen"/>lers, he said hee would give twenty pounds his Sonne were so good a Scholler as he. Wouldst thou replies the Scholler, it has
+<pb n="96" facs="tcp:20520:59"/>cost my Father five hundred pound. Hath it so saith the other. Then you and your Father are both dam<g ref="char:EOLhyphen"/>nably cheated.</p>
+            </div>
+            <div type="part">
+               <head>On certaine Schollers.</head>
+               <p>CErtaine Schollers speaking in the company of one whose name was <hi>Hill,</hi> that <hi>H</hi> was no letter, no saith he, it will then goe very ill with me.</p>
+            </div>
+            <div type="part">
+               <pb n="97" facs="tcp:20520:59"/>
+               <head>A Disputation.</head>
+               <p>A Grave man com<g ref="char:EOLhyphen"/>ming into the Hall to dispute with a Batchelour of Arts, on this question; <hi>An Monarchia sit optimus status Reipublicae,</hi> be<g ref="char:EOLhyphen"/>gan with this suppo<g ref="char:EOLhyphen"/>sition, <hi>supponas me esse Monarcham te subditum, &amp;c.</hi> the other answers <hi>hoc non est supponendum</hi> (replies he) <hi>non? sup<g ref="char:EOLhyphen"/>ponas disputationis gratia
+<pb n="98" facs="tcp:20520:60"/>non disputationis gratia,</hi> saith the Batchelour, <hi>quare?</hi> askes the first, saith the other <hi>quia uno dato absurdo sequuntur mille.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>On a Grove.</head>
+               <p>THe same man hea<g ref="char:EOLhyphen"/>ring a Grove com<g ref="char:EOLhyphen"/>mended which was neere unto his house, said that indeede it wold be a good grove were it not for the trees.</p>
+            </div>
+            <div type="part">
+               <pb n="99" facs="tcp:20520:60"/>
+               <head>Of a quarrell betweene two Schollers.</head>
+               <p>A Scholler being big and tall of sta<g ref="char:EOLhyphen"/>ture, quarrelling with another, that was much lesse then him<g ref="char:EOLhyphen"/>selfe, the latter said a great Clowne, were he cut in two, hee would make three of me.</p>
+            </div>
+            <div type="part">
+               <pb n="100" facs="tcp:20520:61"/>
+               <head>A relation of Newes.</head>
+               <p>A Certaine Scholler asking another what newes in the Country, hee said that at a Towne in <hi>Dorset</hi> shire, a man being to be buryed in a bluste<g ref="char:EOLhyphen"/>ring and stormy day, when hee was brought into the Church, and set downe from the mens shoulders, the Beere gave a great cracke. The Minister
+<pb n="101" facs="tcp:20520:61"/>asking what it was that did cracke so (sea<g ref="char:EOLhyphen"/>ring it had beene a beame of the Church) nothing said the dead man. And when hee was to be interred, the grave being in the Churchyard, was halfe full of water, which when the dead man felt, he said, what doe you meane to bu<g ref="char:EOLhyphen"/>ry me and drowne me too. Notwithstanding they buryed him, and
+<pb n="102" facs="tcp:20520:62"/>it is now questioned.</p>
+            </div>
+            <div type="part">
+               <head>A mistake in reading.</head>
+               <p>A Curate being to reade that passage in the Scripture, and <hi>Abraham</hi> did solace his wife, read, and <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> did so lace his wife.</p>
+            </div>
+            <div type="part">
+               <head>At Woodstocke by Schollers.</head>
+               <p>KIng <hi>James,</hi> of Fa<g ref="char:EOLhyphen"/>mous memory be<g ref="char:EOLhyphen"/>ing
+<pb n="103" facs="tcp:20520:62"/>at <hi>Woodstocke,</hi> the Schollers of Christ-Church, presented him with a play, na<g ref="char:EOLhyphen"/>med the Marriage of the Artes, a Comedy very good, but not well taken by the Court, whereon one made this disticke to the Authour.</p>
+               <p>Sixe miles thy Muse had travell'd that I thinke.</p>
+               <p>The cause that made thy verses feete to stinke.</p>
+            </div>
+            <div type="part">
+               <pb n="104" facs="tcp:20520:63"/>
+               <head>On a French Priest.</head>
+               <p>A Priest under our Popish ignorance willing to prove that the Parish must pave the Church and not hee, proved it out of the old Testament, in these words, <hi>paveant illi non paveam ego.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>On a meere Scholler.</head>
+               <p>A Certaine meere Scholler being to
+<pb n="105" facs="tcp:20520:63"/>ride before a Gentle<g ref="char:EOLhyphen"/>vvoman on the same horse, out of curtesie desired her to get up first, vvhich she deny<g ref="char:EOLhyphen"/>ing, hee very earnestly urged her to it, think<g ref="char:EOLhyphen"/>ing it as I suppose a part of good man<g ref="char:EOLhyphen"/>ners.</p>
+            </div>
+            <div type="part">
+               <head>An Epigramme on this saying.</head>
+               <p>
+                  <hi>QƲot capita tot inge<g ref="char:EOLhyphen"/>nia.</hi>
+               </p>
+               <pb n="106" facs="tcp:20520:64"/>
+               <p>So many heads so many wits, fie, fie;</p>
+               <p>It is a shame for Proverbes thus to lye:</p>
+               <p>For I, though my acquaintance bee but small;</p>
+               <p>Know many heads that have no wit at all.</p>
+            </div>
+            <div type="part">
+               <pb n="107" facs="tcp:20520:64"/>
+               <head>On a paire of foule bootes.</head>
+               <p>A Scholler being hasty on his jour<g ref="char:EOLhyphen"/>ney, the other was o<g ref="char:EOLhyphen"/>ver curious in making cleane his bootes, hee jestingly told him, I prethee leave, for the old dirt will serve to keepe out the new.</p>
+            </div>
+            <div type="part">
+               <head>Of a Scholler.</head>
+               <p>A Scholler having brought his Tutor
+<pb n="108" facs="tcp:20520:65"/>an exercise in prose, he dislikt it, and bad him turne it into verse the next day the yong Scholler brought it, so saith hee, now there is rime in it, before neither rime nor rea<g ref="char:EOLhyphen"/>son.</p>
+            </div>
+            <div type="part">
+               <head>On a Country man.</head>
+               <p>A Country man be<g ref="char:EOLhyphen"/>ing told by his Mi<g ref="char:EOLhyphen"/>nister that he must de<g ref="char:EOLhyphen"/>fie the world, the flesh
+<pb n="109" facs="tcp:20520:65"/>and the devill, made this answer; Sir I hope you vvill pardon mee in that, your Worship knovves mee to bee a poore man, and there<g ref="char:EOLhyphen"/>fore it becomes not me to defie any man.</p>
+            </div>
+            <div type="part">
+               <head>On a Gentleman.</head>
+               <p>A Gentleman being in place vvhere there vvas vvondrous small beere, said to his friend, O Sir, this
+<pb n="110" facs="tcp:20520:66"/>beere sweates ex<g ref="char:EOLhyphen"/>treamely, your reason said he, why? I tell you man its all in a wa<g ref="char:EOLhyphen"/>ter.</p>
+            </div>
+            <div type="part">
+               <head>Another of the same.</head>
+               <p>THE same Gentle<g ref="char:EOLhyphen"/>man complained that the beere at such a Colledge was dead, that may very well be said his Companion, for it was weake when I were here last.</p>
+            </div>
+            <div type="part">
+               <pb n="111" facs="tcp:20520:66"/>
+               <head>Of a Scholler.</head>
+               <p>A Master of a Col<g ref="char:EOLhyphen"/>ledge, seeing one of the foundation clad with an extreame short Gowne, repre<g ref="char:EOLhyphen"/>hended him sharpely, and told him it was a disparagement to the whole Society, for him to goe so ridicu<g ref="char:EOLhyphen"/>lously accountred, good Sir, replies the fellow, have patience a while, for it will
+<pb n="112" facs="tcp:20520:67"/>bee long enough Ile vvarrant you before I have another.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>An</hi> Oxford <hi>Townesman.</hi>
+               </head>
+               <p>A Certain Tovvnes<g ref="char:EOLhyphen"/>man vvas boasting vvhat revenge hee vvould take on an o<g ref="char:EOLhyphen"/>ther vvhom hee con<g ref="char:EOLhyphen"/>ceived had vvronged him: the same party hearing his threats, ansvvered him that curst covves have
+<pb n="113" facs="tcp:20520:67"/>short hornes: the for<g ref="char:EOLhyphen"/>mer mans wife stan<g ref="char:EOLhyphen"/>ding by, and willing to take her husbands part, replyed yea? but I hope my husband is none of those Cowes Sir.</p>
+            </div>
+            <div type="part">
+               <head>On one that had lost at cards</head>
+               <p>A Gentleman much bemoaning his bad fortune, that hee had lost forty peeces at cards, but at last, its
+<pb n="114" facs="tcp:20520:68"/>no great matter (said he) I am (I thinke) in part revenged, for I am sure he tooke some light gold: and there<g ref="char:EOLhyphen"/>withall rested himselfe contented.</p>
+            </div>
+            <div type="part">
+               <head>A bitter Ieaster.</head>
+               <p>IN the time of Queen <hi>Elizabeth,</hi> lived one <hi>Pace</hi> a very bitter Iea<g ref="char:EOLhyphen"/>ster, who being once admitted into the presence of some
+<pb n="115" facs="tcp:20520:68"/>Court Ladyes, they said unto him, come on <hi>Pace</hi> we shall now heare of our faults, no replies hee, I doe not use to talke of that which all the towne talkes of.</p>
+            </div>
+            <div type="part">
+               <head>On a Mercer.</head>
+               <p>AN <hi>Oxford</hi> Mercer, one that had a great opinion of his owne wit, being as<g ref="char:EOLhyphen"/>ked by a Country fel<g ref="char:EOLhyphen"/>low
+<pb n="116" facs="tcp:20520:69"/>if hee would sell him a mat, called forth his daughter <hi>Martha,</hi> whom hee usually so called, and askt him what hee would give him for that mat, the Clowne made him answer, that he would willingly have such a mat as was never laine upon, which quite abasht both the Mercer and his daugh<g ref="char:EOLhyphen"/>ter.</p>
+            </div>
+            <div type="part">
+               <pb n="117" facs="tcp:20520:69"/>
+               <head>On an English man and a Frenchman.</head>
+               <p>AN English man being in the com<g ref="char:EOLhyphen"/>pany of a Frenchman, and with many swag<g ref="char:EOLhyphen"/>gering tearmes, bra<g ref="char:EOLhyphen"/>ving him amongst the rest, said that wee give the Lyon, the Prince of all beasts for our Armes: the French<g ref="char:EOLhyphen"/>man answered him, true, yet <hi>Leo gallum per<g ref="char:EOLhyphen"/>horrescit.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="118" facs="tcp:20520:70"/>
+               <head>On a jealous man.</head>
+               <p>A Certaine man that was somewhat too jealous of his wives honesty, used often<g ref="char:EOLhyphen"/>times when shee walkt, to looke out of the doore to watch whether his wife went. Which shee of<g ref="char:EOLhyphen"/>ten perceiving, and taking in great endu<g ref="char:EOLhyphen"/>gine, roundly told him, that if hee used so continually to looke
+<pb n="119" facs="tcp:20520:70"/>after her, shee would clappe such a paire of hornes upon his head, that from thenceforth he should not bee able to put his head out of the doores.</p>
+            </div>
+            <div type="part">
+               <head>Of a poore Souldier.</head>
+               <p>A Captaine seeing a poore Souldier march sweating in a Winter morning, askt him how hee could sweate in such cold
+<pb n="120" facs="tcp:20520:71"/>weather? The Soul<g ref="char:EOLhyphen"/>dier answered him marry Captaine if you carryed all your goods on your backe as I do, you would sweate as well as I.</p>
+            </div>
+            <div type="part">
+               <head>Asilly young Gentlewoman.</head>
+               <p>A Silly Country Gentlewoman be<g ref="char:EOLhyphen"/>ing begot with childe by one that was much her inferiour, to save her credit, accused the
+<pb n="121" facs="tcp:20520:71"/>man of rape, where<g ref="char:EOLhyphen"/>upon the matter was had in question be<g ref="char:EOLhyphen"/>fore a neighbour Iu<g ref="char:EOLhyphen"/>stice of peace, who somewhat perceiving the matter, after hee had heard her com<g ref="char:EOLhyphen"/>plaint, how deepely shee had beene inju<g ref="char:EOLhyphen"/>red, as pittying her said, alas poore Gen<g ref="char:EOLhyphen"/>tlewoman, I warrant this was not the first time the rogue ra<g ref="char:EOLhyphen"/>visht you, shee to ag<g ref="char:EOLhyphen"/>gravate
+<pb n="122" facs="tcp:20520:72"/>his crime, re<g ref="char:EOLhyphen"/>plyed, no Ile be sworn hee ravisht mee above twenty times, which procured much laugh<g ref="char:EOLhyphen"/>ter, and the fellowes freedome.</p>
+            </div>
+            <div type="part">
+               <head>On an old Lady.</head>
+               <p>AN ancient Lady was sitting at Ta<g ref="char:EOLhyphen"/>ble, with company who were question<g ref="char:EOLhyphen"/>ing each others age, shee being desirous to
+<pb n="123" facs="tcp:20520:72"/>bee thought younger then indeede she was, said, that shee was but forty yeares old, <hi>Cicero</hi> being then present, and hearing it, roun<g ref="char:EOLhyphen"/>ded him that sate next him in the eare, saying you must beleeve her, for J have heard her say so, any time these Tenne yeares.</p>
+            </div>
+            <div type="part">
+               <pb n="124" facs="tcp:20520:73"/>
+               <head>Of a Tyler.</head>
+               <p>A Tyler and his man were together at worke upon a house, when the Rafters brea<g ref="char:EOLhyphen"/>king, his man fel down through the roofe, the Tyler looking after him, said, I like a fellow that will goe through his worke.</p>
+            </div>
+            <div type="part">
+               <pb n="125" facs="tcp:20520:73"/>
+               <head>Another.</head>
+               <p>ANother falling from a house top, kild with his weight a man that was under, but saved his owne life, the other mans friend prosecuting the Law, and requi<g ref="char:EOLhyphen"/>ring <hi>Lex talionis,</hi> was adjudged to get up on the house and to fall downe on the Tyler.</p>
+            </div>
+            <div type="part">
+               <pb n="126" facs="tcp:20520:74"/>
+               <head>A Country man.</head>
+               <p>A Country fellow comming into Cheapeside, tooke up a waster and a bucke<g ref="char:EOLhyphen"/>ler to play with an Apprentice, the Ap<g ref="char:EOLhyphen"/>prentice beating him soundly, breaking his head, &amp;c. the fellow cast downe his waster againe, and said that if he had not thought that the Apprentice would still have struck
+<pb n="127" facs="tcp:20520:74"/>on the Buckler, (as he thought) he would not have plaid.</p>
+            </div>
+            <div type="part">
+               <head>On a boy serving in a pigges head.</head>
+               <p>A Certaine compa<g ref="char:EOLhyphen"/>ny of Gentlemen were met together at dinner, at a friends house, where a boy was serving in a pigs<g ref="char:EOLhyphen"/>head to the Table, in a foule dish, for which his Master being an<g ref="char:EOLhyphen"/>gry
+<pb n="128" facs="tcp:20520:75"/>did much chide him, one of them stan<g ref="char:EOLhyphen"/>ding by excused the boy in this manner, faith Sir (said he,) you need not be so angry, for the dish is so clean that the boy may see his face in it.</p>
+            </div>
+            <div type="part">
+               <head>Of an old man and a Iudge.</head>
+               <p>NOT long since was an old man brought before a Iudge to be a witnesse
+<pb n="129" facs="tcp:20520:75"/>of an ancient custome of a Parish, which was then controverted, the Iudge therefore in his examination enqui<g ref="char:EOLhyphen"/>red of him how many yeares old hee was, hee answered one and threescore, the Iudge trying to put him out of countenance saith, and why not three<g ref="char:EOLhyphen"/>score and one (where<g ref="char:EOLhyphen"/>as indeed the greatest number should be put first) the old man re<g ref="char:EOLhyphen"/>plies
+<pb n="130" facs="tcp:20520:76"/>because (may it please your Lordship) I was one before I was threescore.</p>
+            </div>
+            <div type="part">
+               <head>On a Gentlewoman and her Servant.</head>
+               <p>A Gentle woman was boasting what an overthrow shee had given an adversa<g ref="char:EOLhyphen"/>ry of hers in a suit of Law; yes Mistresse (quoth one of her ser<g ref="char:EOLhyphen"/>vants that stood by)
+<pb n="131" facs="tcp:20520:76"/>hee tooke the wrong sow by the eare, when first hee beganne to meddle with you.</p>
+            </div>
+            <div type="part">
+               <head>Of a Gentlewoman betray<g ref="char:EOLhyphen"/>ing her selfe.</head>
+               <p>A Gentle-woman was in company telling a tale of a Cur<g ref="char:EOLhyphen"/>tezan who was like to bee surprized in bed with a Lord, and that they vvere so neere ta<g ref="char:EOLhyphen"/>ken, that to save both
+<pb n="132" facs="tcp:20520:77"/>their credits, the lord was enforced to let her downe at the win<g ref="char:EOLhyphen"/>dow with one of the sheetes: In conclusi<g ref="char:EOLhyphen"/>on quoth shee, the knot slipt and downe fell I.</p>
+            </div>
+            <div type="part">
+               <head>A Gentleman and his Wife.</head>
+               <p>A Conceited Gen<g ref="char:EOLhyphen"/>tleman seeing his wife in a very sullen mood, asked her how she did, she answered
+<pb n="133" facs="tcp:20520:77"/>him, that shee was not sick, nor yet very well. Nay (quoth hee) then I may even turne thee out of doores, for I only promised to che<g ref="char:EOLhyphen"/>rish thee in sickenesse or in health, which an<g ref="char:EOLhyphen"/>swer awakned her sul<g ref="char:EOLhyphen"/>len humour.</p>
+            </div>
+            <div type="part">
+               <head>Of a Welch Barber.</head>
+               <p>A Welch Barbersha<g ref="char:EOLhyphen"/>ving a leane man, put in his finger into
+<pb n="134" facs="tcp:20520:78"/>his mouth, to bend out his hollow cheek, that hee might doe it more conveniently, but by neglect, cut<g ref="char:EOLhyphen"/>ting his owne finger through the fellowes cheeke, he gave him a great cuffe on the eare saying, A pox on your thinne choppes, thus to make mee hurt my finger.</p>
+            </div>
+            <div type="part">
+               <pb n="135" facs="tcp:20520:78"/>
+               <head>Of a young Barber.</head>
+               <p>A Young Barber comming to trim a Gentleman, the Gentleman asked him what was become of his Master, (who was formerly wont to trim him,) Sir quoth the shaver, my Master hath left off shop-kee<g ref="char:EOLhyphen"/>ping, and hath turned your Worship over to me.</p>
+            </div>
+            <div type="part">
+               <pb n="136" facs="tcp:20520:79"/>
+               <head>Of two Fryers.</head>
+               <p>TWO Shavelings were in disputati<g ref="char:EOLhyphen"/>on whether God had made more worlds then one? the one of them alleadged that passage in the Gospell, concerning the clean<g ref="char:EOLhyphen"/>sing of tenne Leapers, being Christs words. <hi>An non decem facti Sunt mundi?</hi> the other ha<g ref="char:EOLhyphen"/>ving had recourse first to the Text, answered
+<pb n="137" facs="tcp:20520:79"/>him as learnedly with the words following, <hi>sed ubi sunt illi novem?</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>How many sorts of Cuckolds</head>
+               <p>THere are of Cuck<g ref="char:EOLhyphen"/>olds three severall sorts.</p>
+               <p n="1">1. A Goate-Cuck<g ref="char:EOLhyphen"/>old who is abused, and doth not thinke of it, for his hornes grow like those of the goat, quite backe<g ref="char:EOLhyphen"/>ward, and so out of
+<pb n="138" facs="tcp:20520:80"/>sight, out of minde.</p>
+               <p n="2">2. An Asse Cuck old, who taking the shad<g ref="char:EOLhyphen"/>dow of his eares for his hornes thinks him<g ref="char:EOLhyphen"/>selfe a Cuckold, but is not.</p>
+               <p n="3">3. A Ramme Cuck<g ref="char:EOLhyphen"/>old who knowes hee hath hornes, sees them and thinkes it no dis<g ref="char:EOLhyphen"/>paragement to weare them.</p>
+            </div>
+            <div type="part">
+               <pb n="139" facs="tcp:20520:80"/>
+               <head>Of a paire of stockes.</head>
+               <p>A Fellow that was set in the stockes, said that the last night hee was in a wood, where hee could see o<g ref="char:EOLhyphen"/>ver, and under, and quite through, and yet could by no meanes get out of it.</p>
+            </div>
+            <div type="part">
+               <head>On one that would borrow money.</head>
+               <p>A Gamester having lost all his money
+<pb n="138" facs="tcp:20520:81"/>in a roome where was one with whom hee had some small ac<g ref="char:EOLhyphen"/>quaintance, on the bed; came to him and said, Sir, if you bee not asleepe, I pray lend mee five shillings, the other,—fastasleepe I protest.</p>
+            </div>
+            <div type="part">
+               <head>Of one wanting beere.</head>
+               <p>A Tenant dyning at his Lords table, could get no liquor,
+<pb n="141" facs="tcp:20520:81"/>wherefore he rose up and desired leave to goe home and drinke, saying, that he would returne againe present<g ref="char:EOLhyphen"/>ly.</p>
+            </div>
+            <div type="part">
+               <head>Of a Welchman.</head>
+               <p>A Welchman that had beene at the Assizes, and seeing the prisoners hold up their hands to the Bar, comming thence saide, that they were
+<pb n="142" facs="tcp:20520:82"/>fery good fortune tel<g ref="char:EOLhyphen"/>lers, for doe but hold up hur hand, and they was tell hur whether hur shall live or dye presently.</p>
+            </div>
+            <div type="part">
+               <head>Of a Lobster being shot.</head>
+               <p>A Company of In<g ref="char:EOLhyphen"/>land Cock-neyes, shot a living Lobster which was let fall on the high way, for a Serpent, and made a solemne thankes gi<g ref="char:EOLhyphen"/>ving
+<pb n="143" facs="tcp:20520:82"/>for their delive<g ref="char:EOLhyphen"/>rance from it. One of them being some<g ref="char:EOLhyphen"/>what wiser then the rest, tooke the Serpent and invited the Mini<g ref="char:EOLhyphen"/>ster of the Parish to dine thereat, who be<g ref="char:EOLhyphen"/>ing derided for his er<g ref="char:EOLhyphen"/>ror, said that in all his life time, he never saw a blacke Lobster be<g ref="char:EOLhyphen"/>fore.</p>
+            </div>
+            <div type="part">
+               <pb n="144" facs="tcp:20520:83"/>
+               <head>A mistake in a mans name.</head>
+               <p>A Fellow was sent in a message to one whose name was <hi>Anc<g ref="char:EOLhyphen"/>keeill,</hi> and that hee might the better re<g ref="char:EOLhyphen"/>member his name, he was bid remember the anckle of his legge, he went on his errant, and comming to the place where hee lived, mis<g ref="char:EOLhyphen"/>tooke Anckle and en<g ref="char:EOLhyphen"/>quires for one Master Calfe.</p>
+            </div>
+            <div type="part">
+               <pb n="145" facs="tcp:20520:83"/>
+               <head>Of a strumpet being with childe.</head>
+               <p>A Strumpet saying that shee was be<g ref="char:EOLhyphen"/>got with childe by <hi>A<g ref="char:EOLhyphen"/>ristippus,</hi> he answered her, you no more know that, then if you went through a hedge of thornes, you could say, that this thorne prickt me.</p>
+            </div>
+            <div type="part">
+               <pb n="146" facs="tcp:20520:84"/>
+               <head>Of a Souldier whose stones were cut out.</head>
+               <p>A Scholler hearing a begging Soul<g ref="char:EOLhyphen"/>dier complaine that his stones were cut out at the Isle of Rea, did thus bemoane him,</p>
+               <p>
+                  <hi>Jlle dolet vere qui sine teste dolet.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Of a Welchman.</head>
+               <p>A Welchman obser<g ref="char:EOLhyphen"/>ving a fellow to
+<pb n="147" facs="tcp:20520:84"/>cut his Masters purse, came behind him and cut off his eare, at which the cheater star<g ref="char:EOLhyphen"/>ting, hee said, nay Sir, no wrong, give my Master his purse a<g ref="char:EOLhyphen"/>gaine, and you shall have your eare.</p>
+            </div>
+            <div type="part">
+               <head>Of granting suites.</head>
+               <p>THe Lord Treasur<g ref="char:EOLhyphen"/>er in the raigne of Queene <hi>Elizabeth</hi> ad<g ref="char:EOLhyphen"/>vised her not to grant
+<pb n="148" facs="tcp:20520:85"/>mens suites too spee<g ref="char:EOLhyphen"/>dily, for said he, <hi>bis dat qui cito dat,</hi> if you give so soone, they will come to you againe.</p>
+            </div>
+            <div type="part">
+               <head>Of a Welchman being to bee hanged.</head>
+               <p>AN Englishman being on the gal<g ref="char:EOLhyphen"/>lowes, said nothing so much grieved him, as that hee must bee hangd with that shab<g ref="char:EOLhyphen"/>bed Welchman, God<g ref="char:EOLhyphen"/>split
+<pb n="149" facs="tcp:20520:85"/>hurnailes (quoth the Welchman, in a great rage) hur will hang cheeke by joule with the proudest of you all, and hur would have you know, that hur keepes as cood company as you, every day in the weeke. The hang-man dealing somewhat rudely in fitting the halter a<g ref="char:EOLhyphen"/>bout the same Welch<g ref="char:EOLhyphen"/>mans necke, he lookt about very angerly
+<pb n="150" facs="tcp:20520:86"/>upon him saying, why how now; what dost thou meane to throt<g ref="char:EOLhyphen"/>tle me.</p>
+            </div>
+            <div type="part">
+               <head>Of a Spanish cheater.</head>
+               <p>A Spanish cheater had gotten him under wide hanging sleeves a paire of false armes, which he arti<g ref="char:EOLhyphen"/>ficially lifting up in time of prayer did with his true armes (if so I may call them)
+<pb n="151" facs="tcp:20520:86"/>cut the purses of all the votaries that were neare him.</p>
+            </div>
+            <div type="part">
+               <head>Of a prisoner.</head>
+               <p>A Prisoner at New<g ref="char:EOLhyphen"/>gate, having lost money out of his pockets, looking a<g ref="char:EOLhyphen"/>bout on his fellow Prisoners said, how now Gentlemen what have wee theeves a<g ref="char:EOLhyphen"/>mong our selves.</p>
+            </div>
+            <div type="part">
+               <pb n="152" facs="tcp:20520:87"/>
+               <head>Of a name on a cap.</head>
+               <p>A Gentleman see<g ref="char:EOLhyphen"/>ing one whose name was <hi>Hill,</hi> to weare a cap with the first letter of his name wrought upon it, said that hee might very well weare a cappe for hee had a great H. o'his head.</p>
+            </div>
+            <div type="part">
+               <pb n="153" facs="tcp:20520:87"/>
+               <head>Of a stinking breath.</head>
+               <p>ONe being in com<g ref="char:EOLhyphen"/>pany with a man that had a stinking breath, told him that he would make a good Trumpeter, being as<g ref="char:EOLhyphen"/>ked the reason why hee thought so, hee an<g ref="char:EOLhyphen"/>swered him, because you have a very strong breath.</p>
+            </div>
+            <div type="part">
+               <pb n="154" facs="tcp:20520:88"/>
+               <head>Of a Gentlewomans legges.</head>
+               <p>ONe seeing a Gen<g ref="char:EOLhyphen"/>tlewoman garter her stockin in the streete, said to her, Mi<g ref="char:EOLhyphen"/>stris, you have a good legge, Sir, said shee, I thinke I have two: he replies they are two indeed, I thinke they are twins, not so said shee, for there was a man borne betweene them.</p>
+            </div>
+            <div type="part">
+               <pb n="155" facs="tcp:20520:88"/>
+               <head>On a dogge.</head>
+               <p>A Dog named Rose pist on a Gentle-womans bed, at which she being angry, did beate the dogge, one being present, excused the dogge, saying you need not fret so much at it, for it was but a little Rosewater.</p>
+            </div>
+            <div type="part">
+               <pb n="156" facs="tcp:20520:89"/>
+               <head>Of a Iugge whose hander was broken.</head>
+               <p>ONe seeing a Jugge without a hander, and willing to breake a jeast on it, said that the Iugge had beene in the Pillary, being asked why? because (quoth hee) hee hath lost his hander. The same man having at table given a pidge<g ref="char:EOLhyphen"/>ons legge to another, (the other smelling to
+<pb n="157" facs="tcp:20520:89"/>it to try if it were sweete) told him that hee should not smell a gift horse in the mouth.</p>
+            </div>
+            <div type="part">
+               <head>On a light wench.</head>
+               <p>A Certaine kinde<g ref="char:EOLhyphen"/>hearted Creature affirming her selfe to bee a maid, was asked by one in the compa<g ref="char:EOLhyphen"/>ny how shee could proove that, another answered for her, <hi>per
+<pb n="158" facs="tcp:20520:90"/>demonstrationem a poste<g ref="char:EOLhyphen"/>riori.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>One complaining for want of sleepe.</head>
+               <p>ONe complaining how little sleepe hee enjoyed the night before, said I could not sleepe the last night, betweene twelve and one of the clocke, for two houres together.</p>
+            </div>
+            <div type="part">
+               <pb n="159" facs="tcp:20520:90"/>
+               <head>Of a Miser gathering wooll.</head>
+               <p>ARich Miser was often observed to goe abroad in the fields and picke wool, which having done, hee would put it into his breeches, least hee should be seene, wher<g ref="char:EOLhyphen"/>fore some in a wag<g ref="char:EOLhyphen"/>gery put wooll full of lice, on the hedges where hee was wont to gather it.</p>
+            </div>
+            <div type="part">
+               <pb n="160" facs="tcp:20520:91"/>
+               <head>On one that was accused for stealing a Bull.</head>
+               <p>ONe being accused at the Assizes for stealing a Bull, plea<g ref="char:EOLhyphen"/>ded that hee had brought him up from a calfe, defended him<g ref="char:EOLhyphen"/>selfe, and was freed. A Welchman who was endited, for stea<g ref="char:EOLhyphen"/>ling of a sword, was nevt tryed, and he ho<g ref="char:EOLhyphen"/>ping for the like suc<g ref="char:EOLhyphen"/>cesse, pleaded that hur
+<pb n="161" facs="tcp:20520:91"/>had brought up hur sword from a dag<g ref="char:EOLhyphen"/>ger.</p>
+            </div>
+            <div type="part">
+               <head>On a Welchman.</head>
+               <p>A Welchman seeing the moone shine into the bottome of a Well, told another that there was a sheece in the bottome of the Well, and hastily leapt in to take it out. Ano<g ref="char:EOLhyphen"/>ther seeing the Moone shine in a poole, ranne
+<pb n="162" facs="tcp:20520:92"/>home and swore that the poole was on fire.</p>
+            </div>
+            <div type="part">
+               <head>Of a theefe.</head>
+               <p>A Theefe being ac<g ref="char:EOLhyphen"/>cused of a roguish fact, denying it said, I am a very rogue if e<g ref="char:EOLhyphen"/>ver I did it.</p>
+            </div>
+            <div type="part">
+               <head>On an old woman.</head>
+               <p>THere being some <hi>Aqua vitae</hi> offered to an old woman of
+<pb n="163" facs="tcp:20520:92"/>fourescore, she asked them what it was, they answered hot water, wherefore she would not drinke of it, untill she had blowne on it a long while.</p>
+            </div>
+            <div type="part">
+               <head>Of the Sea betweene Eng<g ref="char:EOLhyphen"/>land and Holland.</head>
+               <p>ONe reporting that it is a dangerous Sea, betweene Eng<g ref="char:EOLhyphen"/>land and Holland. An<g ref="char:EOLhyphen"/>other said hee neere
+<pb n="164" facs="tcp:20520:93"/>knew one drowned therein his life, no re<g ref="char:EOLhyphen"/>plies hee, I say, <hi>A.M.</hi> came over from Hol<g ref="char:EOLhyphen"/>land into England, and was drowned by the way.</p>
+            </div>
+            <div type="part">
+               <head>Of one that spake bigge.</head>
+               <p>A Scholler being a<g ref="char:EOLhyphen"/>bout to describe one that spake very bigge, said he spake as if he had a Bow-bell in his mouth.</p>
+            </div>
+            <div type="part">
+               <pb n="165" facs="tcp:20520:93"/>
+               <head>A womans desire.</head>
+               <p>A Gentlewoman when her husband was carving at the Table, desired him to give her a flap of the Coney, her husband answered her, how wife, what before all this company.</p>
+            </div>
+            <div type="part">
+               <head>Of a thinne peece of cheese.</head>
+               <p>A Thinne peece of cheese being set
+<pb n="166" facs="tcp:20520:94"/>before a Scholler, hee presently layd his fin<g ref="char:EOLhyphen"/>ger on his mouth, and being asked why hee did so, hee answered least my breath should blow it away.</p>
+            </div>
+            <div type="part">
+               <head>On a tatling Wench.</head>
+               <p>ONe hearing a tal<g ref="char:EOLhyphen"/>kative Wench, said that her tongue ranne upon whe les, another; that she had her tongue at her fin<g ref="char:EOLhyphen"/>gers ends.</p>
+            </div>
+            <div type="part">
+               <pb n="167" facs="tcp:20520:94"/>
+               <head>On a fat man.</head>
+               <p>ONe seeing a fat man whose legges were swolne with drinking, said that his body was like an hogges-head, set upon two flaggons.</p>
+            </div>
+            <div type="part">
+               <head>Of a Clowne.</head>
+               <p>A Country fellow having seene a gay Gentlewoman in a paire of Sattin slip<g ref="char:EOLhyphen"/>pers,
+<pb n="168" facs="tcp:20520:95"/>describing her attire to his compani<g ref="char:EOLhyphen"/>on, said that the upper leather of her slippers was Sattin.</p>
+            </div>
+            <div type="part">
+               <head>Of one oretaking another on the way.</head>
+               <p>A Country fellow riding on the way and wanting Com<g ref="char:EOLhyphen"/>pany, at last hee espies one before, and set<g ref="char:EOLhyphen"/>ting spurres to his horse, ridde and ore<g ref="char:EOLhyphen"/>tooke
+<pb n="169" facs="tcp:20520:95"/>him, where his first salutation was, Well met Sir. The same being at ano<g ref="char:EOLhyphen"/>ther time oretaken on the way by a Gen<g ref="char:EOLhyphen"/>tleman, hee said you are well oretaken friend, hee answered, and so are you Sir.</p>
+            </div>
+            <div type="part">
+               <head>On Blacke-berries.</head>
+               <p>ONe told his com<g ref="char:EOLhyphen"/>panion that hee had this yeare already
+<pb n="170" facs="tcp:20520:96"/>seene red blacke ber<g ref="char:EOLhyphen"/>ries, how can that be possible, saith the o<g ref="char:EOLhyphen"/>ther, why replies hee, are they not red, when they are greene?</p>
+            </div>
+            <div type="part">
+               <head>Of a large-beard.</head>
+               <p>ONe seeing a fel<g ref="char:EOLhyphen"/>low with a large promisse beard, said he lookt as if he had eaten a horse, and the taile of it did hang out of his mouth. An<g ref="char:EOLhyphen"/>other
+<pb n="171" facs="tcp:20520:96"/>seeing a little fellow with a great bushy beard, askt who it was that stood be<g ref="char:EOLhyphen"/>hind the beard.</p>
+            </div>
+            <div type="part">
+               <head>Of long Mustachos.</head>
+               <p>A Iudge seeing a fel<g ref="char:EOLhyphen"/>low come within the barre, that had great. Mustachoes, standing out streight, and no haire on his chinne, called to him, ho? you there with a
+<pb n="172" facs="tcp:20520:97"/>ruler in your mouth, what businesse have you to presse in after this rude manner, &amp;c.</p>
+            </div>
+            <div type="part">
+               <head>A Proverbe.</head>
+               <p>HEE that is fit to drink wine, must have Sugar on his beard, his eyes in his pockets, and his feet in his hands.</p>
+            </div>
+            <div type="part">
+               <pb n="173" facs="tcp:20520:97"/>
+               <head>Of one that went a Souldier.</head>
+               <p>ONe having a Son which was an un<g ref="char:EOLhyphen"/>thrift, compeld him to goe a Souldier into the Low Countryes; A friend of his mee<g ref="char:EOLhyphen"/>ting him told him that he heard he vvold goe a voluntary, I God knowes, quoth the other much a<g ref="char:EOLhyphen"/>gainst my will.</p>
+            </div>
+            <div type="part">
+               <pb n="174" facs="tcp:20520:98"/>
+               <head>Of a foolish Frenchman.</head>
+               <p>A French man (saith <hi>Eustathius</hi>) going to sleepe, put a brasse pot under his head, and because the hard<g ref="char:EOLhyphen"/>nesse of it did offend him, hee stuft it with feathers and chaffe, and so sleept on it thinking it very ea<g ref="char:EOLhyphen"/>sie.</p>
+            </div>
+            <div type="part">
+               <pb n="175" facs="tcp:20520:98"/>
+               <head>On a Tertian Ague.</head>
+               <p>A Gentleman went to visit a friend of his that was sicke, and comming into the roome where he lay, hee enquired of him what his disease was, hee answered him a Tertian ague, saith the other, how doth it take you? O lasse said the sicke man, I am much troubled with it, for it takes me e<g ref="char:EOLhyphen"/>very day.</p>
+            </div>
+            <div type="part">
+               <pb n="176" facs="tcp:20520:99"/>
+               <head>Of a young Sutor.</head>
+               <p>SOme asking a young man, why he lookt after a wife so soone, he answered them they must give him leave to looke before he leape.</p>
+            </div>
+            <div type="part">
+               <head>A We ches honesty.</head>
+               <p>ONe was praysing a Wenches hone<g ref="char:EOLhyphen"/>sty, whom a standerby knew to be a whore,
+<pb n="177" facs="tcp:20520:99"/>wherefore he said to him, is shee honest, pray had shee never a childe? the first an<g ref="char:EOLhyphen"/>swered him, indeed she had a childe, but it was a very little one.</p>
+            </div>
+            <div type="part">
+               <head>A sweete tooth.</head>
+               <p>ONe refusing cer<g ref="char:EOLhyphen"/>taine meate at the table, said, that was not for his pallate, and that hee had a sweete tooth. A stander by
+<pb n="178" facs="tcp:20520:100"/>answers, vvho ever knevv a Calves head vvithout one.</p>
+            </div>
+            <div type="part">
+               <head>Two Scolds.</head>
+               <p>TWo vvomen scol<g ref="char:EOLhyphen"/>ding, and casting the lye on each other, one of them said thou lyest like a vvhore, a theefe, and a vvitch, the other replies, but thou lyest like an Al<g ref="char:EOLhyphen"/>manacke-maker, for thou lyest every day
+<pb n="179" facs="tcp:20520:100"/>and all the yeare long.</p>
+            </div>
+            <div type="part">
+               <head>On a Miller.</head>
+               <p>THere vvas a certain man named <hi>Regu<g ref="char:EOLhyphen"/>lus,</hi> vvho having caught his Miller in a theft, vvould have him hanged for it; the Mil<g ref="char:EOLhyphen"/>ler being now on the gallowes, he entreated and conjured him by his faith to tell him of an honest Miller. The Miller upon his
+<pb n="180" facs="tcp:20520:101"/>oath affirmed that he knew none. If it be so sayd <hi>Regulus</hi> come thou downe againe and live, least I meete with a worse theefe than thou art.</p>
+            </div>
+            <div type="part">
+               <head>Of a Player.</head>
+               <p>A Player having in the night taken theeves in his house, hee sayd to them, I wonder what you would finde here in
+<pb n="181" facs="tcp:20520:101"/>the night, whereas I can finde nothing here in cleare day.</p>
+            </div>
+            <div type="part">
+               <head>Of one being in a tempest.</head>
+               <p>ONe being in a dangerous tem<g ref="char:EOLhyphen"/>pest (all being com<g ref="char:EOLhyphen"/>manded to throw those thinges that were most burthen<g ref="char:EOLhyphen"/>ous into the sea) threw first his wife, saying, that hee was burthened with no<g ref="char:EOLhyphen"/>thing
+<pb n="182" facs="tcp:20520:102"/>thing somuch as vvith her.</p>
+            </div>
+            <div type="part">
+               <head>On a red head.</head>
+               <p>ONe seeing a fel<g ref="char:EOLhyphen"/>lovv vvith a carret<g ref="char:EOLhyphen"/>pate, sayd that hee vvould rayse notable tumults if hee vvere a chymny svveeper, be<g ref="char:EOLhyphen"/>ing askt the reason, hee ansvvered because if hee should put his head out of the chimny, the people
+<pb n="183" facs="tcp:20520:102"/>vvould thinke it vvere fire, and all runne to quench it.</p>
+            </div>
+            <div type="part">
+               <head>Of a Bavarian.</head>
+               <p>TWO Bavarians vvere travelling tovvards <hi>Rome,</hi> and by the vvay vvent into an Inne, and eate egges for their dinner. After they vvere again gone forth on their journey saith the one of them to the other, I have
+<pb n="184" facs="tcp:20520:103"/>deceived mine host very cunningly, the other asking him how, he answered, be<g ref="char:EOLhyphen"/>cause I ate a whole chicke in one of the egges, and paid nere a farthing for it.</p>
+            </div>
+            <div type="part">
+               <head>Of a Traveller.</head>
+               <p>A Traveller com<g ref="char:EOLhyphen"/>ming into a Ta<g ref="char:EOLhyphen"/>verne, and calling for <hi>Grecian</hi> wine, the wo<g ref="char:EOLhyphen"/>man brought him
+<pb n="185" facs="tcp:20520:103"/>some of her owne u<g ref="char:EOLhyphen"/>rine, he tasting it, and perceiving her guile, said hee would have none of that Wine, for it did taste of the caske.</p>
+            </div>
+            <div type="part">
+               <head>On a Wilde-ducke.</head>
+               <p>A Gentleman being at the table where was a very fat wild<g ref="char:EOLhyphen"/>ducke, hee said, hee thought the ducke was crambd, at which
+<pb n="186" facs="tcp:20520:104"/>the rest laughing, as<g ref="char:EOLhyphen"/>ked him who should crambe it, he answe<g ref="char:EOLhyphen"/>red them the man in the Moone.</p>
+            </div>
+            <div type="part">
+               <head>On a private marriage.</head>
+               <p>A Gentleman de<g ref="char:EOLhyphen"/>scribing a couple that were marryed privately, said that they were marryed without a wedding.</p>
+            </div>
+            <div type="part">
+               <pb n="187" facs="tcp:20520:104"/>
+               <head>On the Romane Iulia.</head>
+               <p>I <hi>Ʋlia</hi> the daughter of <hi>Augustus Caesar,</hi> be<g ref="char:EOLhyphen"/>ing gravely admoni<g ref="char:EOLhyphen"/>shed by a ftiend of hers, that shee should compose her felfe to the example of her fa<g ref="char:EOLhyphen"/>thers temperance and frugality, shee answe<g ref="char:EOLhyphen"/>red, Hee forgets him<g ref="char:EOLhyphen"/>selfe to bee <hi>Caesar,</hi> but I remember my selfe to be <hi>Caesars</hi> daughter.</p>
+            </div>
+            <div type="part">
+               <pb n="188" facs="tcp:20520:105"/>
+               <head>On Populia.</head>
+               <p>THe like answer was given by the Romane <hi>Populia,</hi> a luxurious woman, who when one of her friends said that hee wondred why beasts never desire to cou<g ref="char:EOLhyphen"/>ple with their males, (otherwise in wo<g ref="char:EOLhyphen"/>men) but when they desire to conceive young; she answered, because they are beasts.</p>
+            </div>
+            <div type="part">
+               <pb n="189" facs="tcp:20520:105"/>
+               <head>Two travailing.</head>
+               <p>TWo travailing on the way, they came to a very narrow path, where one doubting they were gon amisse because of the nar<g ref="char:EOLhyphen"/>rownesse of the track, the other answered, pish, it is a great rode man of a pathway.</p>
+            </div>
+            <div type="part">
+               <pb n="190" facs="tcp:20520:106"/>
+               <head>A ridiculous speech.</head>
+               <p>A Gentleman new<g ref="char:EOLhyphen"/>ly being come from <hi>London,</hi> another askt him, how such a friend of his fared who was then in <hi>London,</hi> the other an<g ref="char:EOLhyphen"/>swered him that hee did not see him. No! (replyes hee) why had you not sought him: seeke a man there (cries the other) seeke a man in a bottle of hay.</p>
+            </div>
+            <div type="part">
+               <pb n="191" facs="tcp:20520:106"/>
+               <head>On a tyred horse.</head>
+               <p>A Gentleman seeing anothers horse at a stand, he not able to make him goe mau<g ref="char:EOLhyphen"/>gre his spurring him, said, that the man was mounted on a post<g ref="char:EOLhyphen"/>horse.</p>
+            </div>
+            <div type="part">
+               <head>On a Phoenix.</head>
+               <p>ANother reporting that hee had seene a Phoenix in his tra<g ref="char:EOLhyphen"/>vels,
+<pb n="192" facs="tcp:20520:107"/>a Phoenix one askt him in the com<g ref="char:EOLhyphen"/>pany, whether it were a cocke Phoenix or a henne.</p>
+            </div>
+            <div type="part">
+               <head>On one in the stocks.</head>
+               <p>A Gentleman being for a misdemea<g ref="char:EOLhyphen"/>nour set in the stocks, a friend of his who the meane while had beene at the Taverne, hearing of it, came hallowing into the Temple hall in <hi>London</hi>
+                  <pb n="193" facs="tcp:20520:107"/>where it was done. And being demanded why he did so, hee an<g ref="char:EOLhyphen"/>swered that hee had lost a friend of his in a wood, and therefore hallowed for him as is the use.</p>
+            </div>
+            <div type="part">
+               <head>An Epigramme on a drun<g ref="char:EOLhyphen"/>ken Smith.</head>
+               <p>I Heard that smug the Smith, for Ale and spices,</p>
+               <p>Sold all his tooles, and yet he kept his vices.</p>
+            </div>
+            <div type="part">
+               <pb n="194" facs="tcp:20520:108"/>
+               <head>On a close stoole.</head>
+               <p>A Clowne seeing a Gentleman make use of a close stoole, ranne downe the staires and cryed to the host, that the Gen<g ref="char:EOLhyphen"/>tleman did— in his pewter chest, which mooved much laugh<g ref="char:EOLhyphen"/>ter.</p>
+            </div>
+            <div type="part">
+               <head>On foule table-clothes.</head>
+               <p>A Scholler having on a Friday invi<g ref="char:EOLhyphen"/>ted
+<pb n="195" facs="tcp:20520:108"/>some of his friends to a dinner of fish, and having very foule table-cloathes, desired them to fall too, and be merry, for there was plenty both of fish and foule.</p>
+            </div>
+            <div type="part">
+               <head>An Epitaph on a Cobler.</head>
+               <p>COme hither, reade my gentle friend; And here behold a Coblers end:</p>
+               <p>Longer in length
+<pb n="196" facs="tcp:20520:109"/>his life had gone,</p>
+               <p>But that he had no last so long.</p>
+               <p>O mighty death, whose power can kill,</p>
+               <p>The man that made him soules at will.</p>
+            </div>
+            <div type="part">
+               <head>Ambiguous speeches.</head>
+               <p>ONe said that hee had seene a Noble<g ref="char:EOLhyphen"/>man eate a herring half an houre after his head was of. Another that he had heard one
+<pb n="197" facs="tcp:20520:109"/>sweare a great oath, two houres after hee was dead.</p>
+            </div>
+            <div type="part">
+               <head>On a jealous man.</head>
+               <p>A Certaine man was so farre past in jea<g ref="char:EOLhyphen"/>lousie of his wives loosnesse, at the very conceit grew melan<g ref="char:EOLhyphen"/>cholicke, and conse<g ref="char:EOLhyphen"/>quently sicke, where<g ref="char:EOLhyphen"/>upon a friend of his that came to visit him, asked him where was
+<pb n="198" facs="tcp:20520:110"/>his disease, whether in head, stomacke, &amp;c. hee answered that hee was onely troubled with a bad liver, mea<g ref="char:EOLhyphen"/>ning his wife, who as hee thought lived loosely.</p>
+            </div>
+            <div type="part">
+               <head>On a Cuckold.</head>
+               <p>A Certaine man in <hi>Spaine</hi> being to be markt in the forehead for having three wives, one said that hee
+<pb n="199" facs="tcp:20520:110"/>might bee spared, for hee was markt in the forehead when he had but one wife.</p>
+            </div>
+            <div type="part">
+               <head>On a stout fellow.</head>
+               <p>A Stout fellow be<g ref="char:EOLhyphen"/>ing prest for a Souldier, with ma<g ref="char:EOLhyphen"/>ny teares bewailed his sad misfortune, and being rebuked by one of his friends for it, he answered, it would never grieve me Sir, if
+<pb n="200" facs="tcp:20520:111"/>I might stay at home and fight with my friends.</p>
+            </div>
+            <div type="part">
+               <head>Of a Gntleman.</head>
+               <p>A Gentleman who was troubled with the Iaundise, was ad<g ref="char:EOLhyphen"/>vised by his Physition to drinke Lice for his disease, whereupon he sent his servant to Newgate to purchase some, hee bought two peniworth, but fin<g ref="char:EOLhyphen"/>ding
+<pb n="201" facs="tcp:20520:111"/>one of them to be very small, hee desi<g ref="char:EOLhyphen"/>red his Merchant to exchange him, nay Sir you shall excuse mee, quoth hee, doe you thinke I vvill cull my vvare for tvvo pence.</p>
+            </div>
+            <div type="part">
+               <head>Of a Taylor.</head>
+               <p>A Taylour meeting his debtor on the Exchange, bespake him vvith these vvords Sir, there is somthing
+<pb n="202" facs="tcp:20520:112"/>betweene you and I, is there so quoth the other, why dost thou not take it up then.</p>
+            </div>
+            <div type="part">
+               <head>Of a Glutton.</head>
+               <p>ONe beholding a Glutton falling hard to his victuals, said that he devoured his meate like any Hanniball.</p>
+            </div>
+            <div type="part">
+               <pb n="203" facs="tcp:20520:112"/>
+               <head>Another.</head>
+               <p>A Glutton being to encounter his e<g ref="char:EOLhyphen"/>nemy, was encoura<g ref="char:EOLhyphen"/>ged by a Spectator in this wise, thou needst not doubt of the vic<g ref="char:EOLhyphen"/>tory, for to my know<g ref="char:EOLhyphen"/>ledge, thou art armed with the better sto<g ref="char:EOLhyphen"/>macke.</p>
+            </div>
+            <div type="part">
+               <pb n="204" facs="tcp:20520:113"/>
+               <head>Another.</head>
+               <p>ONe falling by chance into com<g ref="char:EOLhyphen"/>pany with another that had much injured him, brake out into this passionate speech, well, said he, if I am here, there is a knave not farre off.</p>
+            </div>
+            <div type="part">
+               <head>A Witty inscription.</head>
+               <p>VVItty was that conceite of
+<pb n="205" facs="tcp:20520:113"/>him who bestowed this inscription on the doore of a lakes, Here are farts to bee let.</p>
+            </div>
+            <div type="part">
+               <head>Of a Red nose,</head>
+               <p>ONe said that your Red nose would looke so blue in a fro<g ref="char:EOLhyphen"/>sty morning.</p>
+            </div>
+            <div type="part">
+               <pb n="206" facs="tcp:20520:114"/>
+               <head>Another.</head>
+               <p>NOt much unlike was that of him, who would needs lay a wager that there was <hi>Coventry</hi> blew browne thred.</p>
+            </div>
+            <div type="part">
+               <head>Another.</head>
+               <p>ONe said of a man sparing in his di<g ref="char:EOLhyphen"/>et, that he lived by the aire like the Cormo<g ref="char:EOLhyphen"/>rant.</p>
+            </div>
+            <div type="part">
+               <pb n="207" facs="tcp:20520:114"/>
+               <head>On a Tinker.</head>
+               <p>A Tinker comming through Cheape<g ref="char:EOLhyphen"/>side, and sounding bravely on his kettle to the tune of have you any worke for a Tinker, a forward Linnen Draper, that thought to put a jeast on the Tinker, there being a Pillory before his doore, told him hee should doe well to stoppe those two
+<pb n="208" facs="tcp:20520:115"/>holes, pointing to the Pillory, the Tinker returnd him this an<g ref="char:EOLhyphen"/>svver, that if he vvould afford him his head and eares, hee vvould finde a hammer and nailes, and give him vvorke into the bar<g ref="char:EOLhyphen"/>gaine.</p>
+            </div>
+            <div type="part">
+               <head>On a Begger.</head>
+               <p>ONe comming to begge an Almes of a Gentleman, and
+<pb n="209" facs="tcp:20520:115"/>being very importu<g ref="char:EOLhyphen"/>nate, the Gentleman not knowing how to be rid of him, after he had askt him a few questions, told him that a man knew not to whom to bee cha<g ref="char:EOLhyphen"/>ritable for there are such a company of sturdy beggers, that if one do not give some<g ref="char:EOLhyphen"/>thing to them, they will bid a pox take one. O Sir replies the begger, you are mista<g ref="char:EOLhyphen"/>ken
+<pb n="210" facs="tcp:20520:116"/>in me, I am none of those, the Gentle<g ref="char:EOLhyphen"/>man replyed, then goe your wayes, Ile try you for once.</p>
+            </div>
+            <div type="part">
+               <head>On a Baker.</head>
+               <p>A Baker riding through a Yeo<g ref="char:EOLhyphen"/>mans Close, spyed a fat Goose, and being a merry fellow, hee lights downe, tooke up the Goose, and weighing her in his
+<pb n="211" facs="tcp:20520:116"/>hands, hee likt herso well that hee put her into one of his dossers, and thumping old Brocke his Mare with his feete, hee began to trot homewards as fast as hee could, the Countriman that ow<g ref="char:EOLhyphen"/>ed the Goose, obser<g ref="char:EOLhyphen"/>ving the Bakers kna<g ref="char:EOLhyphen"/>very, strained his throate, cryed aloud Baker, Baker, the Ba<g ref="char:EOLhyphen"/>ker made as if hee did not heare, but rides
+<pb n="212" facs="tcp:20520:117"/>home as fast as hee could, the Country<g ref="char:EOLhyphen"/>man knowing who he was, got a warrant to have him before a Iustice, the businesse being examined, the Baker was askt what he could say for him<g ref="char:EOLhyphen"/>selfe: And like your Worship saith hee, I went to buy a Goose, and comming into this mans close I took one up, wayed her, liked her, and carryed
+<pb n="213" facs="tcp:20520:117"/>her home, this man cals to mee to Bake her, which I have done, and if your Worshippe as he loves a goose, truly both of you shall be welcome to the pye.</p>
+            </div>
+            <div type="part">
+               <head>Of an old man marrying a young woman.</head>
+               <p>A Young maid be<g ref="char:EOLhyphen"/>ing married to an old man, shee was ve<g ref="char:EOLhyphen"/>ry sad all the time the
+<pb facs="tcp:20520:118"/>wedding was hol<g ref="char:EOLhyphen"/>den, wherefore one comforting her said, bee of good cheere woman for an old horse will performe as long a journey as a young. She sighing and withall stro<g ref="char:EOLhyphen"/>king downe her bel<g ref="char:EOLhyphen"/>ly answering; But not in this rode Sir.</p>
+               <trailer>FJNJS.</trailer>
+               <pb facs="tcp:20520:118"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
